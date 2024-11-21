@@ -39,18 +39,8 @@ p {
     font-size: 16px;
     line-height: 150%;
 }
-.tip {
-    position: absolute;
-    bottom: 8px;
-    left: 8px;
-}
-.hint {
-    font-size: 12px;
-    color: rgb(235, 235, 235);
-    
-}
 /* Animations */
-h1, h2, p, .author, .hint {
+h1, h2, p, .author {
     animation-name: text;
     animation-duration: 2s;
     animation-timing-function: ease-in;
