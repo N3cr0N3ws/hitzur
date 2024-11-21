@@ -1,0 +1,101 @@
+:root {
+    --bar-size: 0%; 
+}
+body {
+    font-family: 'Raleway';
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+.main {
+    margin-top: 10%;
+    text-align: center;
+}
+h1 {
+    margin: 0 8px 0 20px;
+    font-family: 'Raleway';
+    font-weight: 700;
+    letter-spacing: 0.5em;
+    color: #fff;
+    font-size: 24px;
+    line-height: 150%;  
+}
+p {
+    font-family: 'Roboto';
+    margin: 8px 8px 8px 20px;
+    color: #fff;
+    font-size: 16px;
+    line-height: 150%;  
+}
+p span {
+    font-weight: bold  
+}
+.action {
+    margin: 42px 0;
+}
+.tip {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+}
+.hint {
+    font-size: 10px;
+    color: rgb(235, 235, 235);
+    
+}
+/* Animations */
+h1, h2, p, .nav, .logo, .author {
+    animation-name: text;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+}
+@keyframes text {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+
+
+
+  .imageBg {
+    position: fixed; /* Fija la imagen para que ocupe toda la pantalla */
+    top: 0;
+    left: 0;
+    width: 100vw; /* Asegura que la imagen cubra el ancho completo de la ventana */
+    height: 100vh; /* Asegura que la imagen cubra el alto completo de la ventana */
+    background: url(https://picsum.photos/2290/1630) no-repeat center center fixed;
+    background-size: cover; /* Escala la imagen para cubrir toda la pantalla */
+    background-attachment: fixed; /* Hace que el fondo permanezca fijo al hacer scroll */
+    z-index: -3; /* Coloca la imagen detrás de cualquier otro contenido */
+    
+    /* Opcional: Añade filtros o animaciones */
+    animation-name: fadeIn;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+}
+
+/* Añade una animación opcional */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+} 
+.layer {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, #000000 33.85%, rgba(63, 55, 201, 0) 100%);
+    opacity: 0.8;
+    z-index: -1;
+}
