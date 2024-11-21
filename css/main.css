@@ -6,31 +6,35 @@ body {
     height: 100%;
     margin: 0;
 }
-
+a, a:hover {
+    color: #F6C63B;
+}
 .container {
     margin: 0 auto;
     -webkit-font-smoothing: antialiased;
 }
+.mcontainer {
+    margin: 0 auto;
+    max-width: 40%;
+}
 
 .main {
     margin-top: 10%;
-    text-align: center;
+    text-align: left;
 }
 h1 {
-    margin: 0 8px 0 20px;
-    font-family: 'Raleway';
-    font-weight: 700;
-    letter-spacing: 0.5em;
+    font-family: Lora;
+    font-weight: 600;
     color: #fff;
-    font-size: 24px;
+    font-size: 44px;
     line-height: 150%;  
 }
 p {
     font-family: 'Roboto';
-    margin: 8px 8px 8px 20px;
+    margin: 40px 8px;
     color: #fff;
     font-size: 16px;
-    line-height: 150%;  
+    line-height: 150%;
 }
 p span {
     font-weight: bold  
