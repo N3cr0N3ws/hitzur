@@ -1,10 +1,13 @@
 :root {
     --bar-size: 0%; 
+    --mobile-margin: 16px; /* Margen para dispositivos móviles */
+    --desktop-margin: 0 20% 0; /* Margen para pantallas grandes */
 }
 body {
     font-family: 'Raleway';
     height: 100%;
     margin: 0;
+    overflow-x: hidden; /* Soluciona el scroll horizontal no deseado */
 }
 a, a:hover {
     color: #F6C63B;
@@ -15,7 +18,7 @@ a, a:hover {
 }
 .mcontainer {
     margin: 0 auto;
-    max-width: 40%;
+    padding: var(--mobile-margin);
 }
 
 .main {
@@ -31,16 +34,10 @@ h1 {
 }
 p {
     font-family: 'Roboto';
-    margin: 40px 8px;
+    margin: 16px 8px;
     color: #fff;
     font-size: 16px;
     line-height: 150%;
-}
-p span {
-    font-weight: bold  
-}
-.action {
-    margin: 42px 0;
 }
 .tip {
     position: absolute;
@@ -48,12 +45,12 @@ p span {
     left: 8px;
 }
 .hint {
-    font-size: 10px;
+    font-size: 12px;
     color: rgb(235, 235, 235);
     
 }
 /* Animations */
-h1, h2, p, .nav, .logo, .author {
+h1, h2, p, .author, .hint {
     animation-name: text;
     animation-duration: 2s;
     animation-timing-function: ease-in;
@@ -63,43 +60,35 @@ h1, h2, p, .nav, .logo, .author {
     to {opacity: 1;}
   }
 
-
-
   .imageBg {
-    position: fixed; /* Fija la imagen para que ocupe toda la pantalla */
+    position: absolute; /* Cambiado de fixed a absolute */
     top: 0;
     left: 0;
-    width: 100vw; /* Asegura que la imagen cubra el ancho completo de la ventana */
-    height: 100vh; /* Asegura que la imagen cubra el alto completo de la ventana */
+    width: 100vw;
+    height: 100%; /* Deja que el fondo cubra el contenido dinámicamente */
     background: url(https://picsum.photos/2290/1630) no-repeat center center fixed;
-    background-size: cover; /* Escala la imagen para cubrir toda la pantalla */
-    background-attachment: fixed; /* Hace que el fondo permanezca fijo al hacer scroll */
-    z-index: -3; /* Coloca la imagen detrás de cualquier otro contenido */
-    
-    /* Opcional: Añade filtros o animaciones */
+    background-size: cover;
+    z-index: -3;
+
     animation-name: fadeIn;
     animation-duration: 2s;
     animation-timing-function: ease-in;
 }
 
-/* Añade una animación opcional */
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
-} 
 .layer {
-    position: fixed;
+    position: absolute; /* Cambiado de fixed a absolute */
     width: 100%;
-    height: 100%;
+    height: 100%; /* Igual a la altura del contenido */
     top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
     background: linear-gradient(180deg, #000000 33.85%, rgba(63, 55, 201, 0) 100%);
     opacity: 0.8;
     z-index: -1;
+}
+
+/* Media Queries para ajustar márgenes */
+@media (min-width: 768px) {
+    .mcontainer {
+        padding: var(--desktop-margin); /* Aplica el margen para escritorio */
+    }
 }
