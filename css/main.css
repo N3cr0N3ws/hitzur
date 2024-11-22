@@ -56,7 +56,7 @@ h1, h2, p, .author {
     left: 0;
     width: 100vw;
     height: 100%; /* Deja que el fondo cubra el contenido dinámicamente */
-    background: url(https://picsum.photos/seed/picsum/200/300/?blur=8) no-repeat center center fixed;
+    background: url(https://picsum.photos/id/755/200/300?blur=8) no-repeat center center fixed;
     background-size: cover;
     z-index: -3;
 
