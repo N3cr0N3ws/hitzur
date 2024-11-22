@@ -1,1 +1,67 @@
-hello
+{
+  "Titular": "Cuatro personas detenidas por la explotación laboral de un hombre durante 17 años en Caparroso (Navarra)",
+  "Categoría emocional": "Indignación",
+  "Fecha de publicación": "22/11/2024",
+  "URL canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9633498/cuatro-personas-detenidas-por-explotacion-laboral-de-hombre-durante-17-anos-en-caparroso-navarra/",
+  "Resumen": "La Guardia Civil ha desarticulado una organización criminal en Caparroso (Navarra) dedicada a la trata de seres humanos con fines de explotación laboral. Cuatro personas han sido detenidas por someter a un hombre a condiciones de esclavitud durante 17 años, obligándolo a trabajar sin remuneración y apropiándose de más de 100.000 euros de sus prestaciones.",
+  "Contexto": "La trata de seres humanos con fines de explotación laboral es una grave violación de los derechos humanos que persiste en diversas regiones del estado. Este caso en Caparroso destaca la vulnerabilidad de ciertas personas y la necesidad de medidas más estrictas para prevenir y combatir tales delitos.",
+  "Línea de Tiempo": {
+    "Hitos históricos": [
+      {
+        "Fecha": "2003",
+        "Descripción": "La familia de la víctima pierde contacto con él, quien tenía problemas médicos y económicos."
+      },
+      {
+        "Fecha": "2007",
+        "Descripción": "La víctima comienza a convivir con una familia de feriantes en Caparroso, iniciando su explotación laboral."
+      },
+      {
+        "Fecha": "Marzo de 2024",
+        "Descripción": "La Guardia Civil localiza a la víctima en Caparroso, iniciando la investigación."
+      },
+      {
+        "Fecha": "20/11/2024",
+        "Descripción": "Se realizan registros y detenciones de cuatro personas implicadas en la explotación laboral de la víctima."
+      }
+    ],
+    "Evolución cronológica": [
+      {
+        "Fecha": "2003",
+        "Descripción": "La familia de la víctima denuncia su desaparición, indicando problemas médicos y económicos."
+      },
+      {
+        "Fecha": "2007",
+        "Descripción": "La víctima es acogida por una familia de feriantes en Caparroso, comenzando su explotación laboral sin remuneración."
+      },
+      {
+        "Fecha": "Marzo de 2024",
+        "Descripción": "La Guardia Civil localiza a la víctima en Caparroso, quien expresa su deseo de reunirse con su hija y abandonar a sus explotadores."
+      },
+      {
+        "Fecha": "20/11/2024",
+        "Descripción": "Se llevan a cabo registros en los que se incautan más de 120.000 euros en efectivo y documentos personales de la víctima."
+      },
+      {
+        "Fecha": "22/11/2024",
+        "Descripción": "La Guardia Civil anuncia la desarticulación de la organización criminal y la detención de cuatro personas por explotación laboral."
+      }
+    ]
+  },
+  "Glosario de Términos": [
+    {
+      "Término": "Trata de seres humanos",
+      "Definición": "Actividad ilegal que consiste en el comercio de personas con fines de explotación laboral, sexual u otros."
+    },
+    {
+      "Término": "Explotación laboral",
+      "Definición": "Situación en la que una persona es obligada a trabajar en condiciones abusivas, sin recibir una remuneración justa o sin derechos laborales."
+    },
+    {
+      "Término": "Organización criminal",
+      "Definición": "Grupo estructurado de personas que se asocian con el propósito de cometer delitos de manera continuada."
+    }
+  ],
+  "Impacto esperado": "Este caso pone de manifiesto la necesidad de reforzar las medidas de prevención y detección de la trata de seres humanos en el estado. Se espera que las autoridades implementen políticas más estrictas y campañas de concienciación para combatir la explotación laboral y proteger a las víctimas.",
+  "Posibles próximos pasos": "Las autoridades judiciales procederán con el enjuiciamiento de los detenidos. Paralelamente, se brindará apoyo psicológico y social a la víctima para facilitar su reintegración. Es probable que se intensifiquen las inspecciones laborales y las campañas de sensibilización sobre la trata de personas en la región.",
+  "Datos relevantes": "Según datos del Ministerio del Interior, en 2023 se registraron 1.200 casos de trata de seres humanos en el estado, de los cuales el 60% correspondieron a explotación laboral. Navarra ha implementado programas específicos para la detección y protección de víctimas de trata en los últimos años."
+}
