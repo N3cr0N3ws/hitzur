@@ -1,67 +1,55 @@
 {
-  "Titular": "Cuatro personas detenidas por la explotación laboral de un hombre durante 17 años en Caparroso (Navarra)",
-  "Categoría emocional": "Indignación",
+  "Titular": "Recomiendan no consumir agua del grifo en Astrabudua (Erandio) por sedimentos en la red tras una reparación",
+  "Categoría emocional": "Precaución",
   "Fecha de publicación": "22/11/2024",
-  "URL canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9633498/cuatro-personas-detenidas-por-explotacion-laboral-de-hombre-durante-17-anos-en-caparroso-navarra/",
-  "Resumen": "La Guardia Civil ha desarticulado una organización criminal en Caparroso (Navarra) dedicada a la trata de seres humanos con fines de explotación laboral. Cuatro personas han sido detenidas por someter a un hombre a condiciones de esclavitud durante 17 años, obligándolo a trabajar sin remuneración y apropiándose de más de 100.000 euros de sus prestaciones.",
-  "Contexto": "La trata de seres humanos con fines de explotación laboral es una grave violación de los derechos humanos que persiste en diversas regiones del estado. Este caso en Caparroso destaca la vulnerabilidad de ciertas personas y la necesidad de medidas más estrictas para prevenir y combatir tales delitos.",
+  "URL canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9633502/recomiendan-no-consumir-agua-del-grifo-en-astrabudua-erandio-por-sedimentos-en-red-tras-reparacion/",
+  "Resumen": "El Consorcio de Aguas Bilbao Bizkaia ha emitido una recomendación para que los residentes de Astrabudua, en Erandio, eviten consumir agua del grifo debido a la presencia de sedimentos en la red de abastecimiento tras una reparación reciente. Se están realizando análisis de calidad y se espera restablecer el servicio en las próximas horas.",
+  "Contexto": "Astrabudua es un barrio del municipio de Erandio, en la provincia de Bizkaia, en el estado. El Consorcio de Aguas Bilbao Bizkaia es la entidad encargada de gestionar el suministro de agua en la región. Las reparaciones en la red de abastecimiento pueden provocar la aparición de sedimentos que afectan la calidad del agua.",
   "Línea de Tiempo": {
     "Hitos históricos": [
       {
-        "Fecha": "2003",
-        "Descripción": "La familia de la víctima pierde contacto con él, quien tenía problemas médicos y económicos."
+        "Fecha": "16/11/2024",
+        "Descripción": "Se produce una rotura en una tubería de la red primaria de distribución en Erandio, causando turbidez en el agua y recomendando no consumirla."
       },
       {
-        "Fecha": "2007",
-        "Descripción": "La víctima comienza a convivir con una familia de feriantes en Caparroso, iniciando su explotación laboral."
-      },
-      {
-        "Fecha": "Marzo de 2024",
-        "Descripción": "La Guardia Civil localiza a la víctima en Caparroso, iniciando la investigación."
-      },
-      {
-        "Fecha": "20/11/2024",
-        "Descripción": "Se realizan registros y detenciones de cuatro personas implicadas en la explotación laboral de la víctima."
+        "Fecha": "17/11/2024",
+        "Descripción": "El Consorcio de Aguas Bilbao Bizkaia anuncia que la situación se ha normalizado y que el agua es apta para el consumo en Erandio, Loiu y Zamudio."
       }
     ],
     "Evolución cronológica": [
       {
-        "Fecha": "2003",
-        "Descripción": "La familia de la víctima denuncia su desaparición, indicando problemas médicos y económicos."
+        "Fecha": "16/11/2024",
+        "Descripción": "Rotura de una tubería en Erandio provoca turbidez en el agua y se recomienda no consumirla."
       },
       {
-        "Fecha": "2007",
-        "Descripción": "La víctima es acogida por una familia de feriantes en Caparroso, comenzando su explotación laboral sin remuneración."
+        "Fecha": "17/11/2024",
+        "Descripción": "Se restablece la normalidad en el suministro de agua en Erandio, Loiu y Zamudio."
       },
       {
-        "Fecha": "Marzo de 2024",
-        "Descripción": "La Guardia Civil localiza a la víctima en Caparroso, quien expresa su deseo de reunirse con su hija y abandonar a sus explotadores."
-      },
-      {
-        "Fecha": "20/11/2024",
-        "Descripción": "Se llevan a cabo registros en los que se incautan más de 120.000 euros en efectivo y documentos personales de la víctima."
+        "Fecha": "21/11/2024",
+        "Descripción": "Se realizan maniobras de reparación en la red de abastecimiento de Astrabudua."
       },
       {
         "Fecha": "22/11/2024",
-        "Descripción": "La Guardia Civil anuncia la desarticulación de la organización criminal y la detención de cuatro personas por explotación laboral."
+        "Descripción": "El Consorcio de Aguas Bilbao Bizkaia recomienda no consumir agua del grifo en Astrabudua debido a la presencia de sedimentos tras la reparación."
       }
     ]
   },
   "Glosario de Términos": [
     {
-      "Término": "Trata de seres humanos",
-      "Definición": "Actividad ilegal que consiste en el comercio de personas con fines de explotación laboral, sexual u otros."
+      "Término": "Sedimentos",
+      "Definición": "Partículas sólidas que se depositan en el fondo de un líquido, en este caso, en la red de abastecimiento de agua."
     },
     {
-      "Término": "Explotación laboral",
-      "Definición": "Situación en la que una persona es obligada a trabajar en condiciones abusivas, sin recibir una remuneración justa o sin derechos laborales."
+      "Término": "Turbidez",
+      "Definición": "Medida de la claridad de un líquido; la presencia de partículas en suspensión aumenta la turbidez."
     },
     {
-      "Término": "Organización criminal",
-      "Definición": "Grupo estructurado de personas que se asocian con el propósito de cometer delitos de manera continuada."
+      "Término": "Consorcio de Aguas Bilbao Bizkaia",
+      "Definición": "Entidad encargada de la gestión del suministro de agua en la provincia de Bizkaia."
     }
   ],
-  "Impacto esperado": "Este caso pone de manifiesto la necesidad de reforzar las medidas de prevención y detección de la trata de seres humanos en el estado. Se espera que las autoridades implementen políticas más estrictas y campañas de concienciación para combatir la explotación laboral y proteger a las víctimas.",
-  "Posibles próximos pasos": "Las autoridades judiciales procederán con el enjuiciamiento de los detenidos. Paralelamente, se brindará apoyo psicológico y social a la víctima para facilitar su reintegración. Es probable que se intensifiquen las inspecciones laborales y las campañas de sensibilización sobre la trata de personas en la región.",
-  "Datos relevantes": "Según datos del Ministerio del Interior, en 2023 se registraron 1.200 casos de trata de seres humanos en el estado, de los cuales el 60% correspondieron a explotación laboral. Navarra ha implementado programas específicos para la detección y protección de víctimas de trata en los últimos años."
+  "Impacto esperado": "La recomendación de no consumir agua del grifo en Astrabudua puede generar inconvenientes para los residentes, quienes deberán buscar fuentes alternativas de agua potable hasta que se restablezca la calidad del suministro.",
+  "Posibles próximos pasos": "Se espera que el Consorcio de Aguas Bilbao Bizkaia complete los análisis de calidad del agua y comunique el restablecimiento del servicio en las próximas horas. Los residentes deben mantenerse informados a través de los canales oficiales y seguir las recomendaciones emitidas.",
+  "Datos relevantes": "El Consorcio de Aguas Bilbao Bizkaia ha habilitado el teléfono 94 487 31 87 para que los residentes de Astrabudua puedan reportar incidencias relacionadas con la calidad del agua."
 }
