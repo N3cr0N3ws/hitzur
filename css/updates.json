@@ -1,55 +1,50 @@
 {
-  "Titular": "Recomiendan no consumir agua del grifo en Astrabudua (Erandio) por sedimentos en la red tras una reparación",
-  "Categoría emocional": "Precaución",
+  "Titular": "Sara Aagesen sustituirá a Teresa Ribera como vicepresidenta del Gobierno",
+  "Categoría emocional": "Transición",
   "Fecha de publicación": "22/11/2024",
-  "URL canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9633502/recomiendan-no-consumir-agua-del-grifo-en-astrabudua-erandio-por-sedimentos-en-red-tras-reparacion/",
-  "Resumen": "El Consorcio de Aguas Bilbao Bizkaia ha emitido una recomendación para que los residentes de Astrabudua, en Erandio, eviten consumir agua del grifo debido a la presencia de sedimentos en la red de abastecimiento tras una reparación reciente. Se están realizando análisis de calidad y se espera restablecer el servicio en las próximas horas.",
-  "Contexto": "Astrabudua es un barrio del municipio de Erandio, en la provincia de Bizkaia, en el estado. El Consorcio de Aguas Bilbao Bizkaia es la entidad encargada de gestionar el suministro de agua en la región. Las reparaciones en la red de abastecimiento pueden provocar la aparición de sedimentos que afectan la calidad del agua.",
+  "URL canonical": "https://www.eitb.eus/es/noticias/politica/detalle/9633387/sara-aagesen-sustituira-a-teresa-ribera-como-vicepresidenta-del-gobierno/",
+  "Resumen": "Sara Aagesen, actual secretaria de Estado de Energía, ha sido designada por el presidente Pedro Sánchez como nueva vicepresidenta tercera del Gobierno y ministra para la Transición Ecológica y el Reto Demográfico, en sustitución de Teresa Ribera, quien asumirá el cargo de vicepresidenta ejecutiva y comisaria de Competencia en la Comisión Europea.",
+  "Contexto": "Este cambio en el Ejecutivo español se produce tras el nombramiento de Teresa Ribera para un alto cargo en la Comisión Europea, lo que ha llevado al presidente Pedro Sánchez a elegir a Sara Aagesen, con una sólida trayectoria en el ámbito energético, para liderar el Ministerio para la Transición Ecológica y el Reto Demográfico.",
   "Línea de Tiempo": {
     "Hitos históricos": [
       {
-        "Fecha": "16/11/2024",
-        "Descripción": "Se produce una rotura en una tubería de la red primaria de distribución en Erandio, causando turbidez en el agua y recomendando no consumirla."
+        "Fecha": "17/01/2020",
+        "Descripción": "Sara Aagesen es nombrada secretaria de Estado de Energía."
       },
       {
-        "Fecha": "17/11/2024",
-        "Descripción": "El Consorcio de Aguas Bilbao Bizkaia anuncia que la situación se ha normalizado y que el agua es apta para el consumo en Erandio, Loiu y Zamudio."
+        "Fecha": "22/11/2024",
+        "Descripción": "Se anuncia que Sara Aagesen sustituirá a Teresa Ribera como vicepresidenta tercera del Gobierno y ministra para la Transición Ecológica y el Reto Demográfico."
       }
     ],
     "Evolución cronológica": [
       {
-        "Fecha": "16/11/2024",
-        "Descripción": "Rotura de una tubería en Erandio provoca turbidez en el agua y se recomienda no consumirla."
+        "Fecha": "17/01/2020",
+        "Descripción": "Sara Aagesen asume el cargo de secretaria de Estado de Energía, desempeñando un papel clave en la política energética del estado."
       },
       {
-        "Fecha": "17/11/2024",
-        "Descripción": "Se restablece la normalidad en el suministro de agua en Erandio, Loiu y Zamudio."
-      },
-      {
-        "Fecha": "21/11/2024",
-        "Descripción": "Se realizan maniobras de reparación en la red de abastecimiento de Astrabudua."
+        "Fecha": "17/09/2024",
+        "Descripción": "Teresa Ribera es nominada por Ursula von der Leyen para ocupar la vicepresidencia ejecutiva en la Comisión Europea, encargada de la Transición Limpia, Justa y Competitiva."
       },
       {
         "Fecha": "22/11/2024",
-        "Descripción": "El Consorcio de Aguas Bilbao Bizkaia recomienda no consumir agua del grifo en Astrabudua debido a la presencia de sedimentos tras la reparación."
+        "Descripción": "Pedro Sánchez designa a Sara Aagesen como nueva vicepresidenta tercera del Gobierno y ministra para la Transición Ecológica y el Reto Demográfico, en sustitución de Teresa Ribera."
       }
     ]
   },
   "Glosario de Términos": [
     {
-      "Término": "Sedimentos",
-      "Definición": "Partículas sólidas que se depositan en el fondo de un líquido, en este caso, en la red de abastecimiento de agua."
+      "Término": "Transición Ecológica",
+      "Definición": "Proceso de cambio hacia un modelo económico y social sostenible, que busca reducir el impacto ambiental y fomentar el uso de energías renovables."
     },
     {
-      "Término": "Turbidez",
-      "Definición": "Medida de la claridad de un líquido; la presencia de partículas en suspensión aumenta la turbidez."
+      "Término": "Comisión Europea",
+      "Definición": "Órgano ejecutivo de la Unión Europea encargado de proponer legislación, implementar decisiones y velar por el cumplimiento de los tratados de la UE."
     },
     {
-      "Término": "Consorcio de Aguas Bilbao Bizkaia",
-      "Definición": "Entidad encargada de la gestión del suministro de agua en la provincia de Bizkaia."
+      "Término": "Vicepresidencia tercera del Gobierno",
+      "Definición": "Cargo dentro del Ejecutivo español que, en este contexto, está asociado al liderazgo del Ministerio para la Transición Ecológica y el Reto Demográfico."
     }
   ],
-  "Impacto esperado": "La recomendación de no consumir agua del grifo en Astrabudua puede generar inconvenientes para los residentes, quienes deberán buscar fuentes alternativas de agua potable hasta que se restablezca la calidad del suministro.",
-  "Posibles próximos pasos": "Se espera que el Consorcio de Aguas Bilbao Bizkaia complete los análisis de calidad del agua y comunique el restablecimiento del servicio en las próximas horas. Los residentes deben mantenerse informados a través de los canales oficiales y seguir las recomendaciones emitidas.",
-  "Datos relevantes": "El Consorcio de Aguas Bilbao Bizkaia ha habilitado el teléfono 94 487 31 87 para que los residentes de Astrabudua puedan reportar incidencias relacionadas con la calidad del agua."
+  "Impacto esperado": "La designación de Sara Aagesen, con amplia experiencia en el sector energético, como ministra para la Transición Ecológica y el Reto Demográfico, se espera que aporte continuidad y solidez a las políticas ambientales y energéticas del estado, manteniendo el compromiso con la sostenibilidad y la lucha contra el cambio climático.",
+  "Posibles próximos pasos": "Sara Aagesen asumirá formalmente sus nuevas responsabilidades en una ceremonia de toma de posesión. Se anticipa que continúe con las iniciativas y proyectos en curso del ministerio, además de establecer nuevas estrategias para avanzar en la transición ecológica del estado."
 }
