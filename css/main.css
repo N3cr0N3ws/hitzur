@@ -71,8 +71,8 @@ h1, h2, p, .author {
     height: 100%; /* Igual a la altura del contenido */
     top: 0;
     left: 0;
-    background: linear-gradient(180deg, #000000 33.85%, rgba(63, 55, 201, 0) 100%);
-    opacity: 0.8;
+    background-color: #000;
+    opacity: 0.4;
     z-index: -1;
 }
 
