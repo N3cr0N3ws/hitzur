@@ -1,0 +1,24 @@
+# Configuración general del sitio
+title: Eitb Noticias
+description: "Noticias con contexto."
+url: "https://www.hitzur.com" # URL para desarrollo local o producción
+baseurl: "" # Vacío porque el sitio está en el root del dominio
+
+# Directorios y exclusiones
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - _posts
+  - mergeJson.js
+  - pages/
+
+# Configuración de Jekyll
+markdown: kramdown
+data_dir: "_data"
+incremental: true
+
+# Configuración de Liquid para manejo estricto de variables
+liquid:
+  strict_filters: true

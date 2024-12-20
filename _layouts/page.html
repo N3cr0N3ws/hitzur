@@ -1,0 +1,172 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+<html lang="es">
+  {% include head.html %}
+<body>
+  <div class="container">
+    <div class="news-card" style="background: url('{{ page.url_imagen }}') center/cover no-repeat;">
+      <div class="layer"></div>
+      <div class="text-overlay ">
+        <span class="emotional">{{ page.categoria_emocional }}</span>
+        <h1>{{ page.titular }}</h1>
+        <span class="publish-date">Publicada el {{ page.date | date: "%d/%m/%Y" }}</span>
+        <p class="resume">{{ page.resumen }}</p>
+      </div>
+    </div>
+    <div class="context">
+      <div class="explain">
+        <span><strong>Análisis y contexto adicional</strong><br />Información relevante no incluida en la noticia original, pero clave para entender el tema a fondo.</span>
+      </div>
+      
+      <!-- Context -->
+      <h2>Contexto</h2>
+      <p>{{ page.contexto }}</p>
+
+      <!-- Who is who -->
+      {% assign quien_es_quien_count = page.quien_es_quien | size %}
+      {% if quien_es_quien_count > 0 %}
+      <h2>Quién es Quién</h2>
+      <div class="who"> 
+        <div class="card-container">
+          {% for persona in page.quien_es_quien %}
+          <div class="who-card">
+            <h3>{{ persona.nombre }}</h3>
+            <p><em>{{ persona.descripcion }}</em></p>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      <!-- Timeline hits -->
+      {% assign linea_tiempo_count = page.linea_tiempo | size %}
+      {% if linea_tiempo_count > 0 %}
+      <h2>Linea de tiempo</h2>
+      <ul class="timeline">
+        {% for hito in page.linea_tiempo %}
+        <li class="timeline-item">
+          <div class="timeline-date">{{ hito.fecha }}</div>
+          <p class="timeline-description">
+            {{ hito.descripcion }}
+          </p>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
+      <!-- Next steps -->
+      {% assign posibles_proximos_pasos_count = page.posibles_proximos_pasos | size %}
+      {% if posibles_proximos_pasos_count > 0 %}
+      <ul class="steps">
+        <li class="steps-item">
+          <div class="steps-tittle">Futuro posible</div>
+          <p class="steps-description">
+            {{ page.posibles_proximos_pasos }}
+          </p>
+        </li>
+      </ul>
+      {% endif %}
+      
+      <!-- Glossary terms -->
+      {% assign glosario_terminos_count = page.glosario_terminos | size %}
+      {% if glosario_terminos_count > 0 %}
+      <h2>Glosario de Términos</h2>
+      <div class="glossary"> 
+        <div class="card-container">
+          {% for termino in page.glosario_terminos %}
+          <div class="card">
+            <h3>{{ termino.termino }}</h3>
+            <p><em>{{ termino.definicion }}</em></p>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      <!-- Opinion terms -->
+      {% assign opinion_publica_count = page.opinion_publica | size %}
+      {% if opinion_publica_count > 0 %}
+      <h2>Opinión pública</h2>
+      <ul class="opinion">
+        {% for opinion in page.opinion_publica %}
+        <li class="opinion-item">
+          <div class="opinion-fuente">{{ opinion.fuente }}</div>
+          <p class="opinion-reaccion">{{ opinion.reaccion }}</p>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
+      <!-- Expected data -->
+      {% assign datos_relevantes_count = page.datos_relevantes | size %}
+      {% if datos_relevantes_count > 0 %}
+      <h2>Datos relevante</h2>
+      <div class="data-container">
+        <div class="data-content">
+          <ul class="data">
+            {% for data in page.datos_relevantes %}
+            <li class="data-item">
+              <div class="data-fuente">{{ data.dato }}</div>
+              <p class="data-reaccion">&mdash; {{ data.fuente }}</p>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endif %}
+
+      <!-- Expected impact -->
+      {% assign impacto_esperado_count = page.impacto_esperado | size %}
+      {% if impacto_esperado_count > 0 %}       
+      <h2>Impacto esperado</h2> 
+      <p>{{ page.impacto_esperado }}</p>
+      {% endif %}
+
+      <!-- Camparations -->
+      {% assign comparativas_count = page.comparativas | size %}
+      {% if comparativas_count > 0 %}       
+      <h2>Comparativas</h2> 
+      <p>{{ page.comparativas }}</p>
+      {% endif %}
+    </div>
+
+    <!-- Data checked -->
+    {% if page.chequeo_datos and page.chequeo_datos != null and page.chequeo_datos.size > 0 %}
+    <div class="data-checked-container">
+      <h2>Checkeo de datos</h2>
+      <ul class="data-checked">
+        {% for data_checked in page.chequeo_datos %}
+        <li class="data-checked-item">
+          <div class="data-checked-afirmacion">&raquo; {{ data_checked.afirmacion }}</div>
+          <div class="data-checked-conclusion">
+            <span>{{ data_checked.verificacion.estado }}</span>
+            <p>{{ data_checked.verificacion.explicacion }}</p>
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    <!-- Reflexion -->
+    {% if page.reflexion_breve and page.reflexion_breve != null and page.reflexion_breve.size > 0 %}
+    <div class="reflexion">
+      <h2>Reflexión breve</h2>
+      <p><img id="avatar" src="https://api.dicebear.com/9.x/notionists/svg?seed=random287&size=60&&body=variant22" /> {{ page.reflexion_breve }}</p>
+    </div>
+    {% endif %}
+
+    <!-- footer -->
+    <div class="footer">
+      <div class="source">
+        <p>¿Te ha intrigado este contexto? Sumérgete en la <a href="{{ page.url_canonical }}" target="_blank">noticia completa</a> para descubrir todos los detalles.</p>
+      </div>
+    </div>
+    <div class="sign">
+      <p>Hïtzur es un proyecto personal, creado con pasión por la tecnología y las ganas de aprender.<br /><br /><i>Gogoz ikasi, bihotzez egin</i></p>
+    </div>
+  </div>
+</body>
+</html>

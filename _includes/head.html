@@ -1,0 +1,73 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+  
+    <!-- SEO Optimized Meta Tags -->
+    <title>{{ page.titular }}</title>
+    <link rel="canonical" href="https://www.hitzur.com/pages/{{ page.slug }}.html" />
+    <meta name="description" content=""{{ page.contexto }}">
+    
+    <meta name="Author" content="Maïder">
+    <meta name="robots" content="INDEX, FOLLOW">
+    <meta name="lang" content="es">
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="{{ page.titular }}">
+    <meta property="og:description" content="{{ page.contexto }}">
+    <meta property="og:site_name" content="hitzur">
+    <meta property="og:locale" content="es_ES">
+    <meta property="og:image" content="{{ page.url_imagen }}">
+    <meta property="og:url" content="https://www.hitzur.com/pages/{{ page.slug }}.html">
+
+   <!-- Amplitude -->
+    <script src="https://cdn.amplitude.com/libs/analytics-browser-2.11.1-min.js.gz"></script>
+    <script src="https://cdn.amplitude.com/libs/plugin-session-replay-browser-1.8.0-min.js.gz"></script>
+    <script>
+        // Generar un UUID para identificar al usuario
+        function generateUUID() {
+            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+                var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+                return v.toString(16);
+            });
+        }
+
+        // Recuperar el User ID del localStorage, o generar uno si no existe
+        let userId = localStorage.getItem('amplitude_user_id');
+        if (!userId) {
+            userId = generateUUID();
+            localStorage.setItem('amplitude_user_id', userId);
+        }
+
+        // Configurar Amplitude con el User ID
+        window.amplitude.setUserId(userId);
+        window.amplitude.add(window.sessionReplay.plugin({sampleRate: 1}));
+        window.amplitude.init('318a32d4d18e51e6f30e99db76b4226d', {
+            serverZone: "EU",
+            autocapture: {
+                elementInteractions: true
+            }
+        });
+
+        // (Opcional) Registrar un evento de prueba
+        window.amplitude.track("Page Loaded", {
+            page: window.location.pathname,
+            referrer: document.referrer
+        });
+    </script>
+
+    <!-- Page js -->
+    <script src="{{ '/assets/js/avatars.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    
+    <!-- non rotate -->
+    <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
+    
+    <!-- css -->
+    <link rel="stylesheet" type="text/css" href="../css/principal.css" />
+
+    <!-- fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Montserrat:wght@400;700&display=swap">
+</head>
