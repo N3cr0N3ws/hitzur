@@ -1,5 +1,5 @@
 # Configuración general del sitio
-title: Eitb Noticias
+title: Hïtzur
 description: "Noticias con contexto."
 url: "https://www.hitzur.com" # URL para desarrollo local o producción
 baseurl: "" # Vacío porque el sitio está en el root del dominio

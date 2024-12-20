@@ -1,5 +1,5 @@
 # Configuración general del sitio
-title: Eitb Noticias (Local)
+title: Hïtzur (Local)
 description: "Noticias con contexto. Desarrollo Local"
 url: "http://localhost:4000" # URL local del sitio
 baseurl: "" # Vacío para desarrollo
