@@ -1,54 +1,63 @@
 {
-  "titular": "País Vasco mantendrá los descuentos en el transporte público en 2025",
-  "categoria_emocional": "Noticia positiva",
+  "titular": "El Gobierno vasco pega carteles en la 'Champions Burger' de Barakaldo para prevenir intoxicaciones alimentarias",
+  "categoria_emocional": "Precaución sanitaria",
   "fecha_publicacion": "20 de diciembre de 2024",
-  "url_canonical": "https://www.20minutos.es/noticia/5666182/0/pais-vasco-mantendra-descuentos-transporte-publico/",
+  "url_canonical": "https://www.20minutos.es/noticia/5666229/0/gobierno-vasco-pega-carteles-champions-burger-barakaldo-prevenir-intoxicaciones-alimentarias/",
   "url_imagen": "https://picsum.photos/800/900",
-  "resumen": "El Gobierno Vasco ha anunciado que mantendrá en 2025 las bonificaciones en el transporte público, incluyendo descuentos del 50% y la gratuidad para menores de 12 años. La Autoridad del Transporte de Euskadi se reunirá para coordinar estas medidas con otros operadores.",
-  "contexto": "Desde 2022, el estado ha implementado descuentos en el transporte público para fomentar su uso y aliviar la carga económica de los ciudadanos. Estas medidas han sido prorrogadas en varias ocasiones, y las comunidades autónomas han tenido la opción de complementarlas. En este contexto, el Gobierno Vasco ha decidido mantener las bonificaciones actuales para 2025, reforzando su compromiso con la movilidad sostenible y el apoyo a las familias.",
+  "resumen": "El Departamento de Salud del Gobierno Vasco ha colocado carteles en el recinto de 'The Champions Burger' en Barakaldo, recomendando consumir carne bien hecha para prevenir intoxicaciones alimentarias. Esta medida sigue a los 23 casos de intoxicación por E.coli registrados en Pamplona durante el mismo evento en octubre.",
+  "contexto": "Tras los casos de intoxicación alimentaria por E.coli en el evento 'The Champions Burger' en Pamplona, el Departamento de Salud del Gobierno Vasco ha intensificado las medidas preventivas en Barakaldo. Se han realizado inspecciones y se han colocado carteles aconsejando consumir carne bien cocinada para evitar riesgos de salud.",
   "linea_tiempo": [
     {
-      "fecha": "1 de septiembre de 2022",
-      "descripcion": "El estado introduce descuentos en el transporte público para mitigar los efectos de la crisis energética."
+      "fecha": "29 de septiembre de 2024",
+      "descripcion": "Finaliza el evento 'The Champions Burger' en Pamplona, donde se registraron 23 casos de intoxicación por E.coli."
     },
     {
-      "fecha": "27 de diciembre de 2023",
-      "descripcion": "Se prorrogan las bonificaciones en el transporte público para todo el año 2024."
+      "fecha": "11 de octubre de 2024",
+      "descripcion": "El Departamento de Salud de Navarra informa sobre los casos de intoxicación relacionados con el evento en Pamplona."
     },
     {
-      "fecha": "14 de noviembre de 2024",
-      "descripcion": "El Parlamento Vasco acuerda mantener un descuento del 20% en abonos y títulos personalizados."
+      "fecha": "18 de diciembre de 2024",
+      "descripcion": "El Departamento de Salud del Gobierno Vasco emite recomendaciones para consumir carne bien hecha durante el evento en Barakaldo."
     },
     {
       "fecha": "20 de diciembre de 2024",
-      "descripcion": "El Gobierno Vasco anuncia la continuidad de los descuentos y la gratuidad para menores de 12 años en 2025."
+      "descripcion": "Se colocan carteles en el recinto de 'The Champions Burger' en Barakaldo para prevenir intoxicaciones alimentarias."
     }
   ],
   "quien_es_quien": [
     {
-      "nombre": "Susana García Chueca",
-      "descripcion": "Consejera de Movilidad Sostenible del Gobierno Vasco, responsable de anunciar la continuidad de las bonificaciones en el transporte público para 2025."
+      "nombre": "Departamento de Salud del Gobierno Vasco",
+      "descripcion": "Entidad gubernamental responsable de la salud pública en la comunidad autónoma, encargada de implementar medidas preventivas en eventos como 'The Champions Burger'."
+    },
+    {
+      "nombre": "The Champions Burger",
+      "descripcion": "Evento gastronómico itinerante que busca la mejor hamburguesa gourmet del estado, presente en diversas ciudades, incluyendo Pamplona y Barakaldo."
+    },
+    {
+      "nombre": "Escherichia coli (E.coli)",
+      "descripcion": "Bacteria que puede causar intoxicaciones alimentarias, especialmente cuando se consume carne picada cruda o poco hecha."
     }
   ],
   "glosario_terminos": [
     {
-      "termino": "Euskotren",
-      "definicion": "Operador de transporte público en el País Vasco que gestiona servicios de tren, tranvía y autobús."
+      "termino": "Intoxicación alimentaria",
+      "definicion": "Enfermedad causada por la ingestión de alimentos contaminados con microorganismos patógenos o sus toxinas."
     },
     {
-      "termino": "Autoridad del Transporte de Euskadi",
-      "definicion": "Entidad encargada de coordinar y planificar el transporte público en el País Vasco."
+      "termino": "E.coli",
+      "definicion": "Bacteria común en el intestino humano y de animales; algunas cepas pueden producir toxinas que causan enfermedades graves."
     },
     {
-      "termino": "Bonificación",
-      "definicion": "Descuento aplicado al precio de un servicio, en este caso, al transporte público."
+      "termino": "Salmonella",
+      "definicion": "Bacteria que puede causar infecciones gastrointestinales, comúnmente asociada al consumo de alimentos contaminados como huevos y carne cruda o poco cocinada."
     },
     {
-      "termino": "Movilidad sostenible",
-      "definicion": "Modelo de transporte que busca reducir el impacto ambiental y promover el uso de medios de transporte eficientes y ecológicos."
+      "termino": "Toxiinfección alimentaria",
+      "definicion": "Enfermedad resultante de la ingestión de alimentos que contienen toxinas producidas por microorganismos patógenos."
     }
   ],
-  "impacto_esperado": "La continuidad de los descuentos y la gratuidad para menores de 12 años en el transporte público del País Vasco en 2025 se espera que incremente el uso del transporte público, reduzca la congestión vehicular y contribuya a la disminución de emisiones contaminantes, alineándose con los objetivos de sostenibilidad y apoyo a las familias.",
-  "reflexion_breve": "La decisión del Gobierno Vasco de mantener las bonificaciones en el transporte público para 2025 refleja un compromiso con la movilidad sostenible y el bienestar de sus ciudadanos. Este tipo de medidas no solo facilitan el acceso al transporte, sino que también promueven hábitos más ecológicos y solidarios en la sociedad.",
-  "bsky_msg": "Noticia positivas – País Vasco mantendrá los descuentos en el transporte público en 2025"
+  "impacto_esperado": "Se espera que las medidas implementadas por el Gobierno Vasco, como la colocación de carteles informativos y las inspecciones sanitarias, reduzcan el riesgo de intoxicaciones alimentarias durante el evento en Barakaldo, protegiendo la salud de los asistentes y concienciando sobre la importancia de consumir carne bien cocinada.",
+  "posibles_proximos_pasos": "El Departamento de Salud podría continuar monitoreando eventos similares, realizando inspecciones y campañas informativas para prevenir intoxicaciones alimentarias en el futuro.",
+  "reflexion_breve": "La prevención es clave para garantizar la seguridad alimentaria en eventos multitudinarios. Medidas como las adoptadas por el Gobierno Vasco no solo protegen la salud pública, sino que también educan a la ciudadanía sobre prácticas de consumo responsables.",
+  "bsky_msg": "Precaución sanitaria – El Gobierno vasco coloca carteles en 'The Champions Burger' de Barakaldo para prevenir intoxicaciones alimentarias"
 }
