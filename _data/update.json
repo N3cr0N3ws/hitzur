@@ -1,1 +1,63 @@
-{}
+{
+  "titular": "El Gobierno vasco pega carteles en la 'Champions Burger' de Barakaldo para prevenir intoxicaciones alimentarias",
+  "categoria_emocional": "Precaución sanitaria",
+  "fecha_publicacion": "20 de diciembre de 2024",
+  "url_canonical": "https://www.20minutos.es/noticia/5666229/0/gobierno-vasco-pega-carteles-champions-burger-barakaldo-prevenir-intoxicaciones-alimentarias/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El Departamento de Salud del Gobierno Vasco ha colocado carteles en el recinto de 'The Champions Burger' en Barakaldo, recomendando consumir carne bien hecha para prevenir intoxicaciones alimentarias. Esta medida sigue a los 23 casos de intoxicación por E.coli registrados en Pamplona durante el mismo evento en octubre.",
+  "contexto": "Tras los casos de intoxicación alimentaria por E.coli en el evento 'The Champions Burger' en Pamplona, el Departamento de Salud del Gobierno Vasco ha intensificado las medidas preventivas en Barakaldo. Se han realizado inspecciones y se han colocado carteles aconsejando consumir carne bien cocinada para evitar riesgos de salud.",
+  "linea_tiempo": [
+    {
+      "fecha": "29 de septiembre de 2024",
+      "descripcion": "Finaliza el evento 'The Champions Burger' en Pamplona, donde se registraron 23 casos de intoxicación por E.coli."
+    },
+    {
+      "fecha": "11 de octubre de 2024",
+      "descripcion": "El Departamento de Salud de Navarra informa sobre los casos de intoxicación relacionados con el evento en Pamplona."
+    },
+    {
+      "fecha": "18 de diciembre de 2024",
+      "descripcion": "El Departamento de Salud del Gobierno Vasco emite recomendaciones para consumir carne bien hecha durante el evento en Barakaldo."
+    },
+    {
+      "fecha": "20 de diciembre de 2024",
+      "descripcion": "Se colocan carteles en el recinto de 'The Champions Burger' en Barakaldo para prevenir intoxicaciones alimentarias."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Departamento de Salud del Gobierno Vasco",
+      "descripcion": "Entidad gubernamental responsable de la salud pública en la comunidad autónoma, encargada de implementar medidas preventivas en eventos como 'The Champions Burger'."
+    },
+    {
+      "nombre": "The Champions Burger",
+      "descripcion": "Evento gastronómico itinerante que busca la mejor hamburguesa gourmet del estado, presente en diversas ciudades, incluyendo Pamplona y Barakaldo."
+    },
+    {
+      "nombre": "Escherichia coli (E.coli)",
+      "descripcion": "Bacteria que puede causar intoxicaciones alimentarias, especialmente cuando se consume carne picada cruda o poco hecha."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Intoxicación alimentaria",
+      "definicion": "Enfermedad causada por la ingestión de alimentos contaminados con microorganismos patógenos o sus toxinas."
+    },
+    {
+      "termino": "E.coli",
+      "definicion": "Bacteria común en el intestino humano y de animales; algunas cepas pueden producir toxinas que causan enfermedades graves."
+    },
+    {
+      "termino": "Salmonella",
+      "definicion": "Bacteria que puede causar infecciones gastrointestinales, comúnmente asociada al consumo de alimentos contaminados como huevos y carne cruda o poco cocinada."
+    },
+    {
+      "termino": "Toxiinfección alimentaria",
+      "definicion": "Enfermedad resultante de la ingestión de alimentos que contienen toxinas producidas por microorganismos patógenos."
+    }
+  ],
+  "impacto_esperado": "Se espera que las medidas implementadas por el Gobierno Vasco, como la colocación de carteles informativos y las inspecciones sanitarias, reduzcan el riesgo de intoxicaciones alimentarias durante el evento en Barakaldo, protegiendo la salud de los asistentes y concienciando sobre la importancia de consumir carne bien cocinada.",
+  "posibles_proximos_pasos": "El Departamento de Salud podría continuar monitoreando eventos similares, realizando inspecciones y campañas informativas para prevenir intoxicaciones alimentarias en el futuro.",
+  "reflexion_breve": "La prevención es clave para garantizar la seguridad alimentaria en eventos multitudinarios. Medidas como las adoptadas por el Gobierno Vasco no solo protegen la salud pública, sino que también educan a la ciudadanía sobre prácticas de consumo responsables.",
+  "bsky_msg": "Precaución sanitaria – El Gobierno vasco coloca carteles en 'The Champions Burger' de Barakaldo para prevenir intoxicaciones alimentarias"
+}
