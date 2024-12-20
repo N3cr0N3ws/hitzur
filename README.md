@@ -1,6 +1,6 @@
 # hitzur - A New Perspective on News
 
-hitzur is a personal project designed to reinterpret the news from [eitb.eus](https://www.eitb.eus). This experiment aims to enrich the news experience by providing additional context, timelines, and emotional categories to foster a deeper and more reflective understanding of the stories.
+hitzur is a personal project designed to reinterpret the news from Internet. This experiment aims to enrich the news experience by providing additional context, timelines, and emotional categories to foster a deeper and more reflective understanding of the stories.
 
 ## Project Goal
 
@@ -8,7 +8,7 @@ The primary goal of hitzur is to combat misinformation and fake news. By offerin
 
 ## Important Disclaimer
 
-This project has **no official affiliation** with [eitb.eus](https://www.eitb.eus) or its team. All content on hitzur has been independently developed for educational and experimental purposes.
+All content on hitzur has been independently developed for educational and experimental purposes.
 
 ## Features
 
