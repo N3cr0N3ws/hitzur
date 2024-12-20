@@ -19,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.DEPLY_TOKEN }}
+          token: ${{ secrets.DEPLOY_TOKEN }}
           fetch-depth: 0
 
       - name: Check last commit
@@ -84,7 +84,7 @@ jobs:
 
       - name: Push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.DEPLY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         run: git push origin HEAD:main
 
       - name: Clean _site directory
@@ -106,7 +106,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.DEPLY_TOKEN }}
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
           publish_dir: ${{ github.workspace }}/_site
           publish_branch: gh-pages
           force_orphan: true
