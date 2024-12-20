@@ -1,1 +1,54 @@
-{}
+{
+  "titular": "País Vasco mantendrá los descuentos en el transporte público en 2025",
+  "categoria_emocional": "Noticia positiva",
+  "fecha_publicacion": "20 de diciembre de 2024",
+  "url_canonical": "https://www.20minutos.es/noticia/5666182/0/pais-vasco-mantendra-descuentos-transporte-publico/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El Gobierno Vasco ha anunciado que mantendrá en 2025 las bonificaciones en el transporte público, incluyendo descuentos del 50% y la gratuidad para menores de 12 años. La Autoridad del Transporte de Euskadi se reunirá para coordinar estas medidas con otros operadores.",
+  "contexto": "Desde 2022, el estado ha implementado descuentos en el transporte público para fomentar su uso y aliviar la carga económica de los ciudadanos. Estas medidas han sido prorrogadas en varias ocasiones, y las comunidades autónomas han tenido la opción de complementarlas. En este contexto, el Gobierno Vasco ha decidido mantener las bonificaciones actuales para 2025, reforzando su compromiso con la movilidad sostenible y el apoyo a las familias.",
+  "linea_tiempo": [
+    {
+      "fecha": "1 de septiembre de 2022",
+      "descripcion": "El estado introduce descuentos en el transporte público para mitigar los efectos de la crisis energética."
+    },
+    {
+      "fecha": "27 de diciembre de 2023",
+      "descripcion": "Se prorrogan las bonificaciones en el transporte público para todo el año 2024."
+    },
+    {
+      "fecha": "14 de noviembre de 2024",
+      "descripcion": "El Parlamento Vasco acuerda mantener un descuento del 20% en abonos y títulos personalizados."
+    },
+    {
+      "fecha": "20 de diciembre de 2024",
+      "descripcion": "El Gobierno Vasco anuncia la continuidad de los descuentos y la gratuidad para menores de 12 años en 2025."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Susana García Chueca",
+      "descripcion": "Consejera de Movilidad Sostenible del Gobierno Vasco, responsable de anunciar la continuidad de las bonificaciones en el transporte público para 2025."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Euskotren",
+      "definicion": "Operador de transporte público en el País Vasco que gestiona servicios de tren, tranvía y autobús."
+    },
+    {
+      "termino": "Autoridad del Transporte de Euskadi",
+      "definicion": "Entidad encargada de coordinar y planificar el transporte público en el País Vasco."
+    },
+    {
+      "termino": "Bonificación",
+      "definicion": "Descuento aplicado al precio de un servicio, en este caso, al transporte público."
+    },
+    {
+      "termino": "Movilidad sostenible",
+      "definicion": "Modelo de transporte que busca reducir el impacto ambiental y promover el uso de medios de transporte eficientes y ecológicos."
+    }
+  ],
+  "impacto_esperado": "La continuidad de los descuentos y la gratuidad para menores de 12 años en el transporte público del País Vasco en 2025 se espera que incremente el uso del transporte público, reduzca la congestión vehicular y contribuya a la disminución de emisiones contaminantes, alineándose con los objetivos de sostenibilidad y apoyo a las familias.",
+  "reflexion_breve": "La decisión del Gobierno Vasco de mantener las bonificaciones en el transporte público para 2025 refleja un compromiso con la movilidad sostenible y el bienestar de sus ciudadanos. Este tipo de medidas no solo facilitan el acceso al transporte, sino que también promueven hábitos más ecológicos y solidarios en la sociedad.",
+  "bsky_msg": "Noticia positiva – País Vasco mantendrá los descuentos en el transporte público en 2025"
+}
