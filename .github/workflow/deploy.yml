@@ -1,0 +1,112 @@
+name: Actualizar y Construir Jekyll
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '_backup/**'
+      - '.github/workflows/**'
+
+jobs:
+  update-source-json:
+    runs-on: ubuntu-22.04
+
+    env:
+      BACKUP_DONE: "false"  # Bandera inicial para controlar el backup
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          fetch-depth: 0
+
+      - name: Check last commit
+        run: |
+          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=%B || echo "NO_COMMIT_MESSAGE")
+          echo "Último mensaje de commit: $LAST_COMMIT_MESSAGE"
+          if [[ "$LAST_COMMIT_MESSAGE" == *"Actualizar source.json con og:image"* ]]; then
+            echo "El último commit fue realizado por el pipeline. Deteniendo ejecución."
+            exit 0
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.6'
+          bundler-cache: true
+
+      - name: Install dependencies
+        run: |
+          npm config set registry https://registry.npmjs.org/
+          npm install axios cheerio
+
+      - name: Check if update.json is empty
+        run: |
+          if [ ! -s _data/update.json ]; then
+            echo "update.json está vacío. Deteniendo proceso."
+            exit 1
+          fi
+
+      - name: Extract og:image and update update.json
+        run: node mergeJson.js extract-og-image
+
+
+      # Paso 7: Crear copia de seguridad solo si no se ha realizado ya
+      - name: Backup source.json
+        run: |
+          if [ "$BACKUP_DONE" = "false" ]; then
+            echo "Creando copia de seguridad..."
+            node mergeJson.js backup
+            echo "BACKUP_DONE=true" >> $GITHUB_ENV
+          else
+            echo "Ya se realizó un backup en este ciclo. Saltando este paso."
+          fi
+
+      - name: Merge update.json into source.json
+        run: node mergeJson.js merge
+
+      - name: Configure Git
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Add and commit changes
+        run: |
+          git add _data/source.json _data/update.json _backup/
+          git diff-index --quiet HEAD || git commit -m "Actualizar source.json con og:image"
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        run: git push origin HEAD:main
+
+      - name: Clean _site directory
+        run: |
+          rm -rf _site || true
+          mkdir _site
+    
+      - name: Install dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        run: JEKYLL_ENV=production bundle exec jekyll build
+
+      - name: Verify _site directory
+        run: |
+          echo "Contents of _site directory:"
+          ls -la ${{ github.workspace }}/_site
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ${{ github.workspace }}/_site
+          publish_branch: gh-pages
+          force_orphan: true
