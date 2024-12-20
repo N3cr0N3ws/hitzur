@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-22.04
 
     env:
-      BACKUP_DONE: "false"  # Bandera inicial para controlar el backup
+      BACKUP_DONE: "false"
 
     steps:
       - name: Checkout repository
@@ -57,8 +57,6 @@ jobs:
       - name: Extract og:image and update update.json
         run: node mergeJson.js extract-og-image
 
-
-      # Paso 7: Crear copia de seguridad solo si no se ha realizado ya
       - name: Backup source.json
         run: |
           if [ "$BACKUP_DONE" = "false" ]; then
