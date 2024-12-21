@@ -22,6 +22,39 @@
     <meta property="og:image" content="{{ page.url_imagen }}">
     <meta property="og:url" content="https://www.hitzur.com/pages/{{ page.slug }}.html">
 
+    <!-- X tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.titular }}">
+    <meta name="twitter:description" content="{{ page.contexto }}">
+    <meta name="twitter:image" content="{{ page.url_imagen }}">
+
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "name": "{{ page.titular }}",
+          "description": "{{ page.contexto }}",
+          "url": "https://www.hitzur.com/pages/{{ page.slug }}.html",
+          "image": {
+            "@type": "ImageObject",
+            "url": "{{ page.url_imagen }}",
+            "width": 1200,
+            "height": 630,
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Hitzur",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.hitzur.com/hitzur.png",
+              "width": 500,
+              "height": 500
+            }
+          }
+        }
+    </script> 
+
    <!-- Amplitude -->
     <script src="https://cdn.amplitude.com/libs/analytics-browser-2.11.1-min.js.gz"></script>
     <script src="https://cdn.amplitude.com/libs/plugin-session-replay-browser-1.8.0-min.js.gz"></script>
