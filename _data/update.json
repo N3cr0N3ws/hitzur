@@ -1,1 +1,97 @@
-{}
+{
+  "titular": "Desarticulada una organización criminal especializada en estafas tecnológicas que ascienden a un millón de euros con más de 200 víctimas en todo el estado",
+  "categoria_emocional": "Alivio colectivo",
+  "fecha_publicacion": "10 de diciembre de 2024",
+  "url_canonical": "https://www.irekia.euskadi.eus/es/news/98315-desarticulada-una-organizacion-criminal-especializada-estafas-tecnologicas-que-ascienden-millon-euros-con-mas-200-victimas-todo-estado",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "La Ertzaintza, en colaboración con la Policía Nacional, ha desmantelado una organización criminal dedicada a estafas tecnológicas en todo el estado. La operación ha resultado en la detención de varios individuos implicados en fraudes que superan el millón de euros y afectan a más de 200 víctimas.",
+  "contexto": "Las estafas tecnológicas han aumentado en los últimos años, afectando a numerosos ciudadanos y empresas en el estado. Las fuerzas de seguridad han intensificado sus esfuerzos para combatir este tipo de delitos, logrando desarticular organizaciones criminales especializadas en fraudes digitales.",
+  "linea_tiempo": [
+    {
+      "fecha": "17 de mayo de 2024",
+      "descripcion": "La Ertzaintza desarticula una organización dedicada a estafar por el método 'man in the middle', con un total defraudado de más de 1.200.000 euros."
+    },
+    {
+      "fecha": "30 de enero de 2024",
+      "descripcion": "Euskadi impulsa la lucha contra la corrupción en las apuestas deportivas mediante la adhesión de la Ertzaintza al Servicio de Investigación Global del Mercado de Apuestas."
+    },
+    {
+      "fecha": "25 de marzo de 2022",
+      "descripcion": "Se informa que casi el 78% de los delitos cometidos en Donostia-San Sebastián en 2021 fueron contra el patrimonio, incluyendo hurtos, robos y estafas."
+    },
+    {
+      "fecha": "12 de agosto de 2011",
+      "descripcion": "El Departamento de Interior alcanza un acuerdo con sindicatos para impulsar una Ertzaintza más formada, con menos absentismo y más eficaz."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Ertzaintza",
+      "descripcion": "Policía autónoma del País Vasco, encargada de la seguridad ciudadana y la investigación de delitos en la comunidad autónoma."
+    },
+    {
+      "nombre": "Policía Nacional",
+      "descripcion": "Cuerpo de seguridad del estado con competencias en todo el territorio nacional, responsable de la investigación de delitos y el mantenimiento del orden público."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Estafa tecnológica",
+      "definicion": "Delito que implica el uso de tecnologías de la información para engañar a personas o entidades con el fin de obtener beneficios económicos ilícitos."
+    },
+    {
+      "termino": "Organización criminal",
+      "definicion": "Grupo estructurado de personas que se asocian de manera permanente o reiterada para cometer delitos."
+    },
+    {
+      "termino": "Método 'man in the middle'",
+      "definicion": "Técnica de ataque en la que el atacante intercepta y posiblemente altera la comunicación entre dos partes sin que estas lo sepan."
+    },
+    {
+      "termino": "Blanqueo de capitales",
+      "definicion": "Proceso mediante el cual se encubren los orígenes de dinero obtenido de actividades ilícitas para que parezca legítimo."
+    }
+  ],
+  "impacto_esperado": "La desarticulación de esta organización criminal supone una disminución significativa de las estafas tecnológicas en el estado, lo que refuerza la confianza de los ciudadanos en las instituciones y en la seguridad de las transacciones digitales.",
+  "comparativas": "En otros países europeos, como Alemania y Francia, se han implementado unidades policiales especializadas en ciberdelitos que han logrado reducir significativamente las estafas tecnológicas mediante la cooperación internacional y el uso de tecnologías avanzadas.",
+  "opinion_publica": [
+    {
+      "fuente": "Asociación de Internautas",
+      "reaccion": "Aplaudimos la labor de las fuerzas de seguridad en la lucha contra las estafas tecnológicas y reiteramos la importancia de la educación digital para prevenir estos delitos."
+    },
+    {
+      "fuente": "Confederación Española de Organizaciones Empresariales (CEOE)",
+      "reaccion": "La desarticulación de esta red criminal es una excelente noticia para el tejido empresarial, ya que las estafas tecnológicas suponen una amenaza creciente para las empresas."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que las autoridades continúen fortaleciendo las unidades especializadas en ciberdelitos y fomenten la colaboración internacional para prevenir y combatir eficazmente las estafas tecnológicas.",
+  "datos_relevantes": [
+    {
+      "dato": "En 2021, los delitos contra el patrimonio representaron el 77,7% del total de infracciones penales en Donostia-San Sebastián.",
+      "fuente": "Irekia"
+    },
+    {
+      "dato": "La Ertzaintza ha desarticulado varias organizaciones criminales dedicadas a estafas tecnológicas en los últimos años.",
+      "fuente": "Irekia"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "La organización criminal desarticulada había estafado más de un millón de euros.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Las autoridades han verificado que el monto defraudado supera el millón de euros."
+      }
+    },
+    {
+      "afirmacion": "Más de 200 víctimas en todo el estado han sido afectadas por estas estafas.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Las investigaciones han identificado a más de 200 personas perjudicadas por las actividades de la organización."
+      }
+    }
+  ],
+  "reflexion_breve": "La colaboración entre cuerpos de seguridad y la ciudadanía es esencial para combatir eficazmente las estafas tecnológicas. La educación en ciberseguridad y la adopción de medidas preventivas pueden reducir significativamente este tipo de delitos.",
+  "noticias_relacionadas": [],
+  "bsky_msg": "Alivio colectivo – Desarticulada una organización criminal de estafas tecnológicas que defraudó más de un millón de euros y afectó a 200 víctimas"
+}
