@@ -1322,59 +1322,5 @@
         "impacto_esperado": "La participación de Olentzero en eventos públicos en Donostia, Bilbao y Vitoria refuerza la identidad cultural vasca y promueve la participación comunitaria en las festividades navideñas. Estas actividades también pueden incentivar el turismo local y fortalecer la economía regional durante la temporada festiva.",
         "reflexion_breve": "La preservación y promoción de tradiciones como la de Olentzero enriquecen el patrimonio cultural y fortalecen los lazos comunitarios, ofreciendo a las nuevas generaciones una conexión viva con sus raíces.",
         "bsky_msg": "Tradición festiva – Olentzero llegará en barco a Donostia y participará en kalejiras en Bilbao y Vitoria estas Navidades"
-    },
-    {
-        "titular": "García afirma que la gratuidad para menores de 12 años en el transporte público 'viene para quedarse'",
-        "categoria_emocional": "Compromiso social",
-        "fecha_publicacion": "24 de diciembre de 2024",
-        "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9657808/entrevista-a-consejera-de-movilidad-sostenible-del-gobierno-vasco-en-radio-euskadi-diciembre-de-2024/",
-        "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/24/3296642/20241224083944_susana-garcia-_foto610x342.jpg",
-        "resumen": "La consejera de Movilidad Sostenible del Gobierno Vasco, Susana García Chueca, ha confirmado en una entrevista que la gratuidad del transporte público para menores de 12 años se mantendrá de forma indefinida. Además, estudiarán la posibilidad de extender esta medida hasta los 15 años, en línea con las recientes decisiones del Gobierno español.",
-        "contexto": "El Gobierno Vasco ha implementado diversas medidas para fomentar el uso del transporte público y aliviar la carga económica de las familias. La gratuidad para menores de 12 años busca inculcar hábitos de movilidad sostenible desde temprana edad. Recientemente, el Gobierno español aprobó la extensión de la gratuidad hasta los 15 años, lo que ha llevado al Ejecutivo vasco a considerar la adopción de medidas similares.",
-        "linea_tiempo": [
-            {
-                "fecha": "24 de octubre de 2024",
-                "descripcion": "La consejera Susana García anuncia la propuesta de extender la gratuidad del transporte público hasta los 12 años a partir de enero de 2025."
-            },
-            {
-                "fecha": "30 de octubre de 2024",
-                "descripcion": "La Autoridad del Transporte de Euskadi debate la ampliación de la gratuidad del transporte público para menores de 12 años en toda la comunidad autónoma."
-            },
-            {
-                "fecha": "20 de diciembre de 2024",
-                "descripcion": "El Gobierno Vasco confirma que mantendrá las bonificaciones en el transporte público y convoca a la Autoridad del Transporte para coordinar con otros operadores."
-            },
-            {
-                "fecha": "24 de diciembre de 2024",
-                "descripcion": "La consejera Susana García afirma que la gratuidad para menores de 12 años en el transporte público 'viene para quedarse' y estudiarán extenderla hasta los 15 años."
-            }
-        ],
-        "quien_es_quien": [
-            {
-                "nombre": "Susana García Chueca",
-                "descripcion": "Consejera de Movilidad Sostenible del Gobierno Vasco, responsable de las políticas relacionadas con el transporte y la movilidad en la comunidad autónoma."
-            }
-        ],
-        "glosario_terminos": [
-            {
-                "termino": "Gratuidad del transporte público",
-                "definicion": "Medida que permite el uso del transporte público sin costo para determinados grupos de población, en este caso, menores de 12 años."
-            },
-            {
-                "termino": "Autoridad del Transporte de Euskadi",
-                "definicion": "Órgano consultivo y de coordinación del transporte en la Comunidad Autónoma Vasca, encargado de debatir y proponer medidas relacionadas con la movilidad."
-            },
-            {
-                "termino": "Movilidad sostenible",
-                "definicion": "Conjunto de políticas y prácticas que buscan promover medios de transporte más ecológicos y eficientes, reduciendo el impacto ambiental."
-            },
-            {
-                "termino": "Bonificaciones en el transporte público",
-                "definicion": "Descuentos aplicados al precio del transporte público para facilitar su uso por parte de diversos colectivos, como estudiantes, personas mayores o familias."
-            }
-        ],
-        "impacto_esperado": "La continuidad de la gratuidad del transporte público para menores de 12 años en el estado fomentará hábitos de movilidad sostenible desde la infancia, aliviará la carga económica de las familias y podría incrementar el uso del transporte público, contribuyendo a la reducción de emisiones contaminantes y al descongestionamiento del tráfico.",
-        "reflexion_breve": "Iniciativas como la gratuidad del transporte público para los más jóvenes no solo alivian la economía familiar, sino que también siembran en las nuevas generaciones la importancia de una movilidad sostenible, esencial para el futuro de nuestras ciudades y el medio ambiente.",
-        "bsky_msg": "Compromiso social – La gratuidad del transporte público para menores de 12 años se mantendrá indefinidamente, según la consejera Susana García"
     }
 ]
