@@ -1,1 +1,48 @@
-{}
+{
+  "titular": "Vuelve el IVA de los alimentos básicos: así quedará la cesta de la compra a partir del 1 de enero",
+  "categoria_emocional": "Ajuste fiscal",
+  "fecha_publicacion": "24 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9657870/vuelve-iva-de-alimentos-basicos-asi-quedara-cesta-de-compra-a-partir-del-1-de-enero/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "A partir del 1 de enero de 2025, el IVA de los alimentos básicos en el estado volverá a sus tipos habituales. Productos como el pan, la leche, los huevos y las frutas, que tenían un IVA reducido del 2%, pasarán al 4%. Asimismo, la pasta y los aceites de semillas incrementarán su IVA del 7,5% al 10%. Estas medidas forman parte del paquete económico aprobado por el Gobierno para el nuevo año.",
+  "contexto": "En respuesta a la crisis económica derivada de la guerra en Ucrania, el Gobierno del estado implementó en enero de 2023 una reducción temporal del IVA en alimentos básicos para mitigar la inflación y aliviar la carga económica de las familias. Esta medida fue prorrogada en varias ocasiones, pero se ha decidido que, a partir del 1 de enero de 2025, los tipos impositivos volverán a sus niveles anteriores, coincidiendo con otras medidas económicas como la revalorización de las pensiones y la implementación de nuevos impuestos energéticos.",
+  "linea_tiempo": [
+    {
+      "fecha": "1 de enero de 2023",
+      "descripcion": "El Gobierno del estado reduce el IVA de los alimentos básicos al 0% y al 5% para mitigar la inflación derivada de la crisis en Ucrania."
+    },
+    {
+      "fecha": "1 de octubre de 2024",
+      "descripcion": "El IVA de los alimentos básicos se incrementa al 2%, y el de la pasta y aceites de semillas al 7,5%, como parte de la eliminación gradual de las medidas anticrisis."
+    },
+    {
+      "fecha": "23 de diciembre de 2024",
+      "descripcion": "El Consejo de Ministros aprueba el retorno de los tipos de IVA a sus niveles habituales a partir del 1 de enero de 2025."
+    },
+    {
+      "fecha": "1 de enero de 2025",
+      "descripcion": "Entra en vigor la restauración de los tipos de IVA: 4% para alimentos básicos y 10% para pasta y aceites de semillas."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "IVA",
+      "definicion": "Impuesto sobre el Valor Añadido, un tributo indirecto que grava el consumo de bienes y servicios."
+    },
+    {
+      "termino": "Alimentos básicos",
+      "definicion": "Productos esenciales en la dieta diaria, como pan, leche, huevos, frutas y verduras."
+    },
+    {
+      "termino": "Tipo impositivo",
+      "definicion": "Porcentaje que se aplica sobre la base imponible de un impuesto para determinar la cantidad a pagar."
+    },
+    {
+      "termino": "Medidas anticrisis",
+      "definicion": "Conjunto de acciones implementadas por un gobierno para mitigar los efectos negativos de una crisis económica."
+    }
+  ],
+  "impacto_esperado": "El retorno de los tipos de IVA a sus niveles habituales podría incrementar ligeramente el precio de los alimentos básicos, afectando el poder adquisitivo de los consumidores. Sin embargo, esta medida también busca normalizar la política fiscal y equilibrar las finanzas públicas tras las medidas excepcionales adoptadas durante la crisis.",
+  "reflexion_breve": "La adaptación a los cambios fiscales es un desafío tanto para los consumidores como para la economía en general. Es fundamental que las medidas de apoyo social y económico continúen para garantizar que las familias más vulnerables puedan afrontar estos ajustes sin ver comprometida su calidad de vida.",
+  "bsky_msg": "Ajuste fiscal – A partir del 1 de enero, el IVA de los alimentos básicos volverá a sus tipos habituales, afectando la cesta de la compra"
+}
