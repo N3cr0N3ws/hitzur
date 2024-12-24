@@ -1,1 +1,58 @@
-{}
+{
+  "titular": "La jueza permite a la defensa de Amaia Zabarte el acceso a todas las imágenes de los incidentes",
+  "categoria_emocional": "Justicia transparente",
+  "fecha_publicacion": "24 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9657814/la-juez-permite-a-defensa-de-amaia-zabarte-acceso-a-todas-imagenes-de-incidentes/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "La jueza que investiga las lesiones de Amaia Zabarte, aficionada de la Real Sociedad herida en una carga de la Ertzaintza en marzo, ha autorizado a su defensa acceder a todas las imágenes de los incidentes previos al partido contra el PSG. Además, ha solicitado a la unidad de asuntos internos de la Ertzaintza identificar a los agentes implicados en el operativo.",
+  "contexto": "El 5 de marzo de 2024, antes del partido de la Real Sociedad contra el PSG en San Sebastián, se produjeron disturbios en los que Amaia Zabarte, una aficionada ajena a los altercados, resultó gravemente herida durante una intervención de la Ertzaintza. Inicialmente, el caso fue archivado por falta de autor conocido, pero la Audiencia de Gipuzkoa ordenó reabrirlo para investigar más a fondo las circunstancias y responsabilidades.",
+  "linea_tiempo": [
+    {
+      "fecha": "5 de marzo de 2024",
+      "descripcion": "Amaia Zabarte resulta gravemente herida durante una carga de la Ertzaintza en los disturbios previos al partido entre la Real Sociedad y el PSG en San Sebastián."
+    },
+    {
+      "fecha": "10 de diciembre de 2024",
+      "descripcion": "El juzgado de instrucción número 4 de Donostia sobresee provisionalmente la causa por ausencia de autor conocido."
+    },
+    {
+      "fecha": "20 de noviembre de 2024",
+      "descripcion": "La Audiencia de Gipuzkoa revoca el archivo provisional de la causa y ordena al juzgado de instrucción que practique nuevas diligencias de investigación."
+    },
+    {
+      "fecha": "24 de diciembre de 2024",
+      "descripcion": "La jueza permite a la defensa de Amaia Zabarte acceder a todas las imágenes de los incidentes y solicita a la unidad de asuntos internos de la Ertzaintza identificar a los agentes implicados."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Amaia Zabarte",
+      "descripcion": "Aficionada de la Real Sociedad que resultó gravemente herida durante una carga policial de la Ertzaintza el 5 de marzo de 2024 en San Sebastián."
+    },
+    {
+      "nombre": "Ertzaintza",
+      "descripcion": "Policía autónoma del País Vasco, responsable del operativo de seguridad durante el partido entre la Real Sociedad y el PSG en marzo de 2024."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Ertzaintza",
+      "definicion": "Cuerpo de policía autónoma del País Vasco, encargado de la seguridad ciudadana en la comunidad autónoma."
+    },
+    {
+      "termino": "Audiencia de Gipuzkoa",
+      "definicion": "Órgano judicial de segunda instancia en la provincia de Gipuzkoa, competente para revisar decisiones de los juzgados de instrucción."
+    },
+    {
+      "termino": "Sobreseimiento provisional",
+      "definicion": "Decisión judicial que suspende temporalmente un proceso penal por falta de pruebas suficientes, sin llegar a archivarlo definitivamente."
+    },
+    {
+      "termino": "Unidad de asuntos internos",
+      "definicion": "Departamento dentro de un cuerpo policial encargado de investigar posibles irregularidades o conductas indebidas cometidas por sus propios agentes."
+    }
+  ],
+  "impacto_esperado": "La autorización para que la defensa de Amaia Zabarte acceda a todas las imágenes de los incidentes y la identificación de los agentes implicados podrían conducir a un esclarecimiento más detallado de los hechos, facilitando la depuración de responsabilidades y reforzando la confianza pública en la transparencia y justicia del proceso.",
+  "reflexion_breve": "La transparencia y el acceso a la información son pilares fundamentales en la búsqueda de justicia, especialmente en casos donde la confianza en las instituciones está en juego. Garantizar estos principios fortalece el estado de derecho y la credibilidad de las autoridades.",
+  "bsky_msg": "Justicia transparente – La jueza autoriza a la defensa de Amaia Zabarte acceder a todas las imágenes de los incidentes previos al partido de la Real Sociedad contra el PSG"
+}
