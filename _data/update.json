@@ -1,1 +1,66 @@
-{}
+{
+  "titular": "El nombre Gipuzkoa cumple mil años en 2025",
+  "categoria_emocional": "Celebración histórica",
+  "fecha_publicacion": "26 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9658513/el-nombre-gipuzkoa-cumple-mil-anos-en-2025/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "En 2025 se conmemoran mil años de la primera mención documental del nombre Gipuzkoa, encontrada en un cartulario de San Juan de la Peña de 1025. Para celebrar este aniversario, se han programado diversas actividades, incluyendo exposiciones y publicaciones que destacan la evolución histórica y cultural del territorio.",
+  "contexto": "La primera referencia escrita a Gipuzkoa data de 1025, en un documento que registra la donación de la iglesia de San Salvador de Olazabal en Altzo al monasterio de San Juan de la Peña en Aragón. Este hito marca el inicio de la documentación escrita del territorio, reflejando su desarrollo como entidad geográfica con identidad propia a lo largo de los siglos.",
+  "linea_tiempo": [
+    {
+      "fecha": "1025",
+      "descripcion": "Primera mención documental de Gipuzkoa en un cartulario de San Juan de la Peña."
+    },
+    {
+      "fecha": "1200",
+      "descripcion": "Incorporación de Gipuzkoa al Reino de Castilla bajo el reinado de Alfonso VIII."
+    },
+    {
+      "fecha": "1374",
+      "descripcion": "Establecimiento de las Juntas Generales de Gipuzkoa como órgano de gobierno del territorio."
+    },
+    {
+      "fecha": "1876",
+      "descripcion": "Abolición de los fueros vascos tras la Tercera Guerra Carlista, afectando la autonomía de Gipuzkoa."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Goizane Álvarez",
+      "descripcion": "Diputada foral de Cultura de Gipuzkoa, quien ha destacado la relevancia del documento de 1025 en la historia del territorio."
+    },
+    {
+      "nombre": "Susana Soto",
+      "descripcion": "Directora del Museo San Telmo, responsable de la exposición 'Ipuscua, 1.000 años' que exhibirá el documento histórico."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Cartulario",
+      "definicion": "Libro que recopila documentos y escrituras importantes, especialmente relacionados con propiedades y derechos de instituciones eclesiásticas o civiles."
+    },
+    {
+      "termino": "San Juan de la Peña",
+      "definicion": "Monasterio aragonés donde se encontró el primer documento que menciona a Gipuzkoa en 1025."
+    },
+    {
+      "termino": "Altzo",
+      "definicion": "Localidad guipuzcoana mencionada en el documento de 1025, conocida por la donación de la iglesia de San Salvador de Olazabal."
+    },
+    {
+      "termino": "Juntas Generales de Gipuzkoa",
+      "definicion": "Órgano de gobierno y representación del territorio histórico de Gipuzkoa establecido en el siglo XIV."
+    }
+  ],
+  "impacto_esperado": "La conmemoración del milenario del nombre Gipuzkoa fortalecerá la identidad cultural y el sentido de pertenencia de sus habitantes, además de promover el interés por la historia y patrimonio del territorio, atrayendo a investigadores y turistas.",
+  "posibles_proximos_pasos": "Se prevé la organización de eventos académicos, culturales y turísticos que profundicen en la historia de Gipuzkoa, así como la publicación de estudios y materiales didácticos que difundan el conocimiento sobre la evolución del territorio en los últimos mil años.",
+  "reflexion_breve": "Celebrar los mil años de la primera mención de Gipuzkoa nos invita a reflexionar sobre la rica historia y evolución de un territorio que ha sabido preservar su identidad y valores a lo largo de los siglos, adaptándose a los cambios y desafíos de cada época.",
+  "noticias_relacionadas": [
+    {
+      "titular_noticia": "El museo de San Telmo ofrecerá en 2025 exposiciones sobre los 1.000 años de Gipuzkoa",
+      "nombre_medio": "Cadena SER",
+      "url_noticia": "https://cadenaser.com/euskadi/2024/12/16/el-museo-de-san-telmo-ofrecera-en-2025-exposiciones-sobre-los-1000-anos-de-gipuzkoa-o-el-control-de-los-regimenes-totalitarios-radio-san-sebastian/"
+    }
+  ],
+  "bsky_msg": "Celebración histórica – El nombre Gipuzkoa cumple mil años en 2025"
+}
