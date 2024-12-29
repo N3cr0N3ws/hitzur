@@ -1,1 +1,73 @@
-{}
+{
+  "titular": "El PP estima que la oficialidad de la selección vasca de pelota 'no tiene ningún sentido'",
+  "categoria_emocional": "Crítica política",
+  "fecha_publicacion": "29 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/politica/detalle/9660275/el-pp-estima-que-oficialidad-de-seleccion-vasca-de-pelota-no-tiene-ningun-sentido/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "La secretaria general del PP del País Vasco, Esther Martínez, ha expresado que la oficialidad de la selección vasca de pelota carece de sentido, acusando al Gobierno de politizar el deporte.",
+  "contexto": "La Federación Internacional de Pelota Vasca ha reconocido a la Federación Vasca como miembro de pleno derecho, permitiendo que Euskadi compita internacionalmente bajo su propia bandera. Esta decisión ha generado reacciones diversas entre partidos políticos y entidades deportivas.",
+  "linea_tiempo": [
+    {
+      "fecha": "25 de octubre de 2022",
+      "descripcion": "El Congreso de los Diputados aprueba la nueva Ley del Deporte, que permite a las selecciones autonómicas de deportes con arraigo histórico competir internacionalmente."
+    },
+    {
+      "fecha": "28 de diciembre de 2024",
+      "descripcion": "La Federación Internacional de Pelota Vasca acepta a la Federación Vasca como miembro de pleno derecho, posibilitando la participación de Euskadi en competiciones internacionales."
+    },
+    {
+      "fecha": "29 de diciembre de 2024",
+      "descripcion": "El PP del País Vasco critica la oficialidad de la selección vasca de pelota, calificándola de politización del deporte."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Esther Martínez",
+      "descripcion": "Secretaria general del PP del País Vasco, ha expresado su oposición a la oficialidad de la selección vasca de pelota."
+    },
+    {
+      "nombre": "Gotzon Enbil",
+      "descripcion": "Presidente de la Federación Vasca de Pelota, ha mostrado optimismo cauteloso ante el reconocimiento internacional de la federación."
+    },
+    {
+      "nombre": "Pedro Sánchez",
+      "descripcion": "Presidente del Gobierno español, acusado por el PP de facilitar la oficialidad de la selección vasca de pelota."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Federación Internacional de Pelota Vasca (FIPV)",
+      "definicion": "Organismo que rige las competiciones internacionales de pelota vasca."
+    },
+    {
+      "termino": "Ley del Deporte",
+      "definicion": "Legislación española que regula las actividades deportivas, incluyendo la participación de selecciones autonómicas en competiciones internacionales."
+    },
+    {
+      "termino": "Selección vasca de pelota",
+      "definicion": "Equipo representativo de Euskadi en el deporte de la pelota vasca."
+    },
+    {
+      "termino": "Oficialidad",
+      "definicion": "Reconocimiento formal que permite a una entidad participar en competiciones oficiales bajo su propia identidad."
+    }
+  ],
+  "impacto_esperado": "La oficialidad de la selección vasca de pelota podría fortalecer la identidad deportiva de Euskadi y promover la pelota vasca a nivel internacional. Sin embargo, también puede generar tensiones políticas y debates sobre la participación de selecciones autonómicas en competiciones internacionales.",
+  "opinion_publica": [
+    {
+      "fuente": "PNV",
+      "reaccion": "Ha celebrado la decisión como un avance significativo para el deporte vasco."
+    },
+    {
+      "fuente": "EH Bildu",
+      "reaccion": "Considera que el reconocimiento sigue la senda del respeto a la nacionalidad de los vascos."
+    },
+    {
+      "fuente": "UPN",
+      "reaccion": "Ha calificado la decisión de 'cacicada' y cuestiona su legitimidad."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que la Federación Vasca de Pelota organice su participación en competiciones internacionales, mientras que opositores podrían presentar recursos o alegaciones para revertir la decisión.",
+  "reflexion_breve": "La oficialidad de la selección vasca de pelota representa una oportunidad para celebrar la diversidad cultural y deportiva dentro del estado, promoviendo el deporte tradicional vasco en el ámbito internacional y fomentando el respeto mutuo entre las distintas identidades regionales.",
+  "bsky_msg": "Crítica política – El PP considera que la oficialidad de la selección vasca de pelota carece de sentido"
+}
