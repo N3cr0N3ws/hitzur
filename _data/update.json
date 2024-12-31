@@ -1,1 +1,66 @@
-{}
+{
+  "titular": "Anatomía del orgasmo femenino: el clítoris manda, pero no lo es todo",
+  "categoria_emocional": "Descubrimiento científico",
+  "fecha_publicacion": "29 de diciembre de 2024",
+  "url_canonical": "https://elpais.com/salud-y-bienestar/2024-12-29/anatomia-del-orgasmo-femenino-el-clitoris-manda-pero-no-lo-es-todo.html",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "La ciencia ha comenzado a desentrañar el misterio del orgasmo femenino, destacando la importancia del clítoris en el placer sexual, pero reconociendo que no es el único factor involucrado.",
+  "contexto": "Durante siglos, la sexualidad femenina ha sido un tema rodeado de mitos y desconocimiento. La anatomía del clítoris, un órgano clave en el placer sexual femenino, no fue descrita con precisión hasta 1998. Estudios recientes han revelado que el orgasmo femenino es una experiencia compleja que involucra múltiples áreas anatómicas y procesos bioquímicos en el cerebro.",
+  "linea_tiempo": [
+    {
+      "fecha": "1950",
+      "descripcion": "El médico alemán Ernst Gräfenberg sugiere la existencia de una zona erógena en la pared frontal de la vagina, posteriormente conocida como punto G."
+    },
+    {
+      "fecha": "1982",
+      "descripcion": "La sexóloga Beverly Whipple publica el libro 'El punto G y otros descubrimientos sobre la sexualidad humana', popularizando el concepto del punto G."
+    },
+    {
+      "fecha": "1998",
+      "descripcion": "La uróloga australiana Helen O'Connell describe con precisión la anatomía completa del clítoris, revelando su estructura interna y su tamaño real."
+    },
+    {
+      "fecha": "2024",
+      "descripcion": "Nuevos estudios científicos destacan la complejidad del orgasmo femenino, señalando que el clítoris es fundamental, pero no el único factor en el placer sexual femenino."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Ernst Gräfenberg",
+      "descripcion": "Médico alemán que sugirió la existencia de una zona erógena en la pared frontal de la vagina, conocida como punto G."
+    },
+    {
+      "nombre": "Beverly Whipple",
+      "descripcion": "Sexóloga estadounidense que popularizó el concepto del punto G a través de sus investigaciones y publicaciones."
+    },
+    {
+      "nombre": "Helen O'Connell",
+      "descripcion": "Uróloga australiana que describió con precisión la anatomía completa del clítoris en 1998."
+    },
+    {
+      "nombre": "Francisca Molero",
+      "descripcion": "Sexóloga clínica y directora del Instituto Iberoamericano de Sexología, ha contribuido al estudio del orgasmo femenino y la respuesta sexual."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Clítoris",
+      "definicion": "Órgano eréctil femenino con alta concentración de terminaciones nerviosas, fundamental en el placer sexual."
+    },
+    {
+      "termino": "Punto G",
+      "definicion": "Zona erógena en la pared frontal de la vagina, cuya existencia y naturaleza han sido objeto de debate científico."
+    },
+    {
+      "termino": "Orgasmo femenino",
+      "definicion": "Pico de placer sexual en las mujeres, acompañado de contracciones musculares y liberación de neurotransmisores."
+    },
+    {
+      "termino": "Complejo clitouretrovaginal",
+      "definicion": "Interacción anatómica y funcional entre el clítoris, la uretra y la vagina en la respuesta sexual femenina."
+    }
+  ],
+  "impacto_esperado": "Estos avances en la comprensión de la anatomía y fisiología del orgasmo femenino pueden mejorar la educación sexual, reducir estigmas y promover una mayor satisfacción sexual en las mujeres.",
+  "reflexion_breve": "El conocimiento profundo de la anatomía y fisiología del placer femenino es esencial para desmitificar tabúes y empoderar a las mujeres en su sexualidad, fomentando relaciones más saludables y satisfactorias.",
+  "bsky_msg": "Descubrimiento científico – Anatomía del orgasmo femenino: el clítoris manda, pero no lo es todo"
+}
