@@ -1,1 +1,54 @@
-{}
+{
+  "titular": "La ONU acusa a Israel de crímenes de guerra por ataques a hospitales de Gaza",
+  "categoria_emocional": "Denuncia internacional",
+  "fecha_publicacion": "31 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9661626/la-onu-acusa-a-israel-de-crimenes-de-guerra-por-ataques-a-hospitales-de-gaza/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "La ONU ha expresado serias dudas sobre los ataques de las Fuerzas de Defensa de Israel a centros médicos en Gaza, indicando que podrían constituir crímenes de guerra y contra la humanidad.",
+  "contexto": "Entre octubre de 2023 y junio de 2024, las Fuerzas de Defensa de Israel llevaron a cabo al menos 136 ataques contra 27 hospitales y 12 instalaciones médicas en la Franja de Gaza. Estos ataques han debilitado significativamente el sistema de salud en Gaza, afectando el acceso a atención médica para la población palestina.",
+  "linea_tiempo": [
+    {
+      "fecha": "12 de octubre de 2023",
+      "descripcion": "Inicio del periodo analizado por la ONU, durante el cual se registraron ataques a instalaciones médicas en Gaza."
+    },
+    {
+      "fecha": "30 de junio de 2024",
+      "descripcion": "Fin del periodo analizado; se contabilizan 136 ataques a centros médicos en Gaza."
+    },
+    {
+      "fecha": "31 de diciembre de 2024",
+      "descripcion": "La ONU publica un informe acusando a Israel de posibles crímenes de guerra por los ataques a hospitales en Gaza."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Volker Turk",
+      "descripcion": "Alto Comisionado de la ONU para los Derechos Humanos, ha instado al respeto de las instalaciones y personal sanitario en Gaza."
+    },
+    {
+      "nombre": "Benjamin Netanyahu",
+      "descripcion": "Primer Ministro de Israel, cuyo gobierno ha justificado los ataques en Gaza por razones de seguridad."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Fuerzas de Defensa de Israel (FDI)",
+      "definicion": "Ejército nacional de Israel, responsable de las operaciones militares en Gaza."
+    },
+    {
+      "termino": "Crímenes de guerra",
+      "definicion": "Violaciones graves del derecho internacional humanitario durante conflictos armados."
+    },
+    {
+      "termino": "Franja de Gaza",
+      "definicion": "Territorio palestino ubicado en la costa oriental del mar Mediterráneo, sujeto a conflictos recurrentes."
+    },
+    {
+      "termino": "Derecho internacional humanitario",
+      "definicion": "Conjunto de normas que buscan limitar los efectos de los conflictos armados, protegiendo a personas que no participan en las hostilidades."
+    }
+  ],
+  "impacto_esperado": "La acusación de la ONU podría aumentar la presión internacional sobre Israel y generar debates sobre la legalidad de sus acciones en Gaza, afectando las relaciones diplomáticas y la situación humanitaria en la región.",
+  "reflexion_breve": "La protección de las instalaciones y del personal sanitario es fundamental en cualquier conflicto. La comunidad internacional debe reforzar su compromiso con el derecho humanitario para salvaguardar vidas inocentes.",
+  "bsky_msg": "Denuncia internacional – La ONU acusa a Israel de crímenes de guerra por ataques a hospitales de Gaza"
+}
