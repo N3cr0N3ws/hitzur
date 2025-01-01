@@ -1,1 +1,46 @@
-{}
+{
+  "titular": "Detenido un hombre acusado de un delito de agresión sexual a menores en Orkoien",
+  "categoria_emocional": "Alarma social",
+  "fecha_publicacion": "1 de enero de 2025",
+  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9661858/detenido-hombre-acusado-de-delito-de-agresion-sexual-a-menores-en-orkoien/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "La Policía Foral ha detenido a un hombre en Orkoien acusado de realizar tocamientos a varias menores en el Paseo Saramago. El detenido permanece en comisaría mientras se investigan los hechos.",
+  "contexto": "Orkoien es una localidad navarra donde, en la madrugada del 1 de enero de 2025, se produjo la detención de un hombre acusado de agredir sexualmente a varias menores. La Policía Foral ha iniciado una investigación para esclarecer lo sucedido y determinar el alcance de los delitos.",
+  "linea_tiempo": [
+    {
+      "fecha": "1 de enero de 2025",
+      "descripcion": "La Policía Foral detiene a un hombre en Orkoien acusado de realizar tocamientos a varias menores en el Paseo Saramago."
+    },
+    {
+      "fecha": "1 de enero de 2025",
+      "descripcion": "El detenido es trasladado a dependencias policiales para la realización de diligencias y permanece en comisaría mientras se investigan los hechos."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Policía Foral",
+      "descripcion": "Cuerpo policial de la Comunidad Foral de Navarra encargado de la seguridad ciudadana y la investigación de delitos en la región."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Agresión sexual",
+      "definicion": "Delito que implica atentar contra la libertad sexual de una persona mediante violencia o intimidación."
+    },
+    {
+      "termino": "Tocamientos",
+      "definicion": "Contacto físico no consentido con connotación sexual, considerado una forma de agresión sexual."
+    },
+    {
+      "termino": "Menores",
+      "definicion": "Personas que no han alcanzado la mayoría de edad legal, establecida en 18 años en España."
+    },
+    {
+      "termino": "Paseo Saramago",
+      "definicion": "Vía pública en la localidad de Orkoien, Navarra, donde ocurrieron los hechos."
+    }
+  ],
+  "impacto_esperado": "Este incidente genera preocupación en la comunidad local y destaca la importancia de la vigilancia y protección de los menores. Se espera que las autoridades refuercen las medidas de seguridad y sensibilización para prevenir futuros casos de agresión sexual.",
+  "reflexion_breve": "La protección de los menores es una responsabilidad compartida por toda la sociedad. Es fundamental fomentar entornos seguros y educar sobre la importancia del respeto y la integridad física y emocional de los niños y adolescentes.",
+  "bsky_msg": "Alarma social – Detenido un hombre acusado de un delito de agresión sexual a menores en Orkoien"
+}
