@@ -1,1 +1,54 @@
-{}
+{
+  "titular": "Pepe Barreira, empresario: 'Es un error anunciar la muerte del vehículo de combustión a favor del eléctrico'",
+  "categoria_emocional": "Debate industrial",
+  "fecha_publicacion": "2 de enero de 2025",
+  "url_canonical": "https://www.eitb.eus/es/noticias/detalle/9662345/pepe-barreira-empresario-es-error-anunciar-muerte-del-vehiculo-de-combustion-a-favor-del-electrico/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El empresario Pepe Barreira, galardonado con el Premio Korta 2024, considera prematuro anunciar el fin de los vehículos de combustión en favor de los eléctricos. Opina que la transición debe gestionarse mejor, haciendo que los coches eléctricos sean más atractivos, económicos y competitivos.",
+  "contexto": "La industria automotriz se encuentra en una transición hacia la movilidad eléctrica, impulsada por políticas medioambientales y avances tecnológicos. Sin embargo, este cambio genera debates sobre su viabilidad económica, impacto en el empleo y adaptación de las infraestructuras.",
+  "linea_tiempo": [
+    {
+      "fecha": "10 de marzo de 2023",
+      "descripcion": "El lehendakari Iñigo Urkullu expresa que el cambio al vehículo eléctrico 'no será nada sencillo y exigirá un gran esfuerzo'."
+    },
+    {
+      "fecha": "26 de noviembre de 2024",
+      "descripcion": "Pepe Barreira recibe el Premio Joxe Mari Korta 2024 por su destacada trayectoria empresarial en Euskadi."
+    },
+    {
+      "fecha": "2 de enero de 2025",
+      "descripcion": "Pepe Barreira declara que es un error anunciar la muerte del vehículo de combustión a favor del eléctrico, abogando por una transición más equilibrada."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Pepe Barreira",
+      "descripcion": "Empresario gallego afincado en Euskadi, reconocido con el Premio Korta 2024 por su trayectoria en los sectores del transporte, hostelería y energías renovables."
+    },
+    {
+      "nombre": "Iñigo Urkullu",
+      "descripcion": "Lehendakari del Gobierno Vasco, ha expresado preocupación por la complejidad de la transición hacia el vehículo eléctrico."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Vehículo de combustión",
+      "definicion": "Automóvil propulsado por motores que utilizan combustibles fósiles como gasolina o diésel."
+    },
+    {
+      "termino": "Vehículo eléctrico",
+      "definicion": "Automóvil impulsado por uno o más motores eléctricos, utilizando energía almacenada en baterías recargables."
+    },
+    {
+      "termino": "Transición energética",
+      "definicion": "Proceso de cambio de un sistema energético basado en combustibles fósiles a uno centrado en energías renovables y tecnologías limpias."
+    },
+    {
+      "termino": "Premio Joxe Mari Korta",
+      "definicion": "Galardón otorgado por el Gobierno Vasco a empresarios que destacan por su trayectoria y contribución al desarrollo económico de Euskadi."
+    }
+  ],
+  "impacto_esperado": "Las declaraciones de Barreira podrían influir en el debate sobre la transición hacia la movilidad eléctrica, resaltando la necesidad de una planificación cuidadosa que considere la competitividad industrial y la aceptación del mercado.",
+  "reflexion_breve": "Una transición equilibrada hacia tecnologías más limpias requiere considerar tanto los avances medioambientales como la sostenibilidad económica y social, garantizando que el cambio beneficie a toda la sociedad.",
+  "bsky_msg": "Debate industrial – Pepe Barreira: 'Es un error anunciar la muerte del vehículo de combustión a favor del eléctrico'"
+}
