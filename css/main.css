@@ -1,0 +1,84 @@
+:root {
+    --bar-size: 0%; 
+    --mobile-margin: 16px; /* Margen para dispositivos móviles */
+    --desktop-margin: 0 20% 0; /* Margen para pantallas grandes */
+}
+body {
+    font-family: 'Raleway';
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden; /* Soluciona el scroll horizontal no deseado */
+}
+a, a:hover {
+    color: #fff;
+}
+.container {
+    margin: 0 auto;
+    -webkit-font-smoothing: antialiased;
+}
+.mcontainer {
+    margin: 0 auto;
+    padding: var(--mobile-margin);
+}
+
+.main {
+    margin-top: 10%;
+    text-align: left;
+}
+h1 {
+    font-family: Lora;
+    font-weight: 600;
+    color: #fff;
+    font-size: 44px;
+    line-height: 110%;  
+}
+p {
+    font-family: 'Roboto';
+    margin: 16px 8px;
+    color: #fff;
+    font-size: 16px;
+    line-height: 150%;
+}
+/* Animations */
+h1, h2, p, .author {
+    animation-name: text;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+}
+@keyframes text {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+
+  .imageBg {
+    position: absolute; /* Cambiado de fixed a absolute */
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100%; /* Deja que el fondo cubra el contenido dinámicamente */
+    background: url(https://picsum.photos/id/922/3000/2000) no-repeat center center fixed;
+    background-size: cover;
+    z-index: -3;
+
+    animation-name: fadeIn;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+}
+
+.layer {
+    position: absolute; /* Cambiado de fixed a absolute */
+    width: 100%;
+    height: 100%; /* Igual a la altura del contenido */
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, #000000 33.85%, rgba(63, 55, 201, 0) 100%);
+    opacity: 0.8;
+    z-index: -1;
+}
+
+/* Media Queries para ajustar márgenes */
+@media (min-width: 768px) {
+    .mcontainer {
+        padding: var(--desktop-margin); /* Aplica el margen para escritorio */
+    }
+}
