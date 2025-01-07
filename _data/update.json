@@ -1,1 +1,113 @@
-{}
+{
+  "titular": "Bizkaia aplicará en febrero la gratuidad del transporte para menores de 12 años",
+  "categoria_emocional": "Noticia positiva",
+  "fecha_publicacion": "7 de enero de 2025",
+  "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9664886/bizkaia-aplicara-en-febrero-gratuidad-del-transporte-para-menores-de-12-anos/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "A partir de la primera semana de febrero de 2025, Bizkaia ofrecerá transporte público gratuito para menores de 12 años. Los beneficiarios deberán obtener una tarjeta Barik personalizada. Además, se mantendrán descuentos del 50% en abonos durante el primer semestre, reduciéndose al 40% en julio, con un 50% de descuento adicional para menores de 26 años.",
+  "contexto": "El Consorcio de Transportes de Bizkaia ha decidido implementar la gratuidad del transporte público para menores de 12 años, una medida que ya está en vigor en Álava. Esta iniciativa forma parte de un esfuerzo más amplio en la Comunidad Autónoma Vasca para fomentar el uso del transporte público y aliviar las cargas económicas de las familias. Además, se han establecido descuentos en los abonos multiviaje y para jóvenes menores de 26 años, con el objetivo de promover una movilidad más sostenible y accesible.",
+  "linea_tiempo": [
+    {
+      "fecha": "23 de diciembre de 2024",
+      "descripcion": "La Autoridad del Transporte de Euskadi acuerda implantar la gratuidad del transporte público para menores de hasta 12 años y prorrogar los descuentos del 50%."
+    },
+    {
+      "fecha": "7 de enero de 2025",
+      "descripcion": "Álava implementa la gratuidad del transporte público para menores de 12 años, requiriendo una tarjeta BAT personalizada."
+    },
+    {
+      "fecha": "7 de enero de 2025",
+      "descripcion": "El Consorcio de Transportes de Bizkaia anuncia la gratuidad del transporte para menores de 12 años a partir de febrero y la ampliación a menores de 14 años en julio."
+    },
+    {
+      "fecha": "20 de febrero de 2025",
+      "descripcion": "Entran en vigor las nuevas tarifas de transporte en Bizkaia, con una subida media del 3,4%."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Consorcio de Transportes de Bizkaia (CTB)",
+      "descripcion": "Entidad responsable de coordinar y gestionar el transporte público en Bizkaia."
+    },
+    {
+      "nombre": "Autoridad del Transporte de Euskadi (ATE)",
+      "descripcion": "Órgano superior consultivo y de coordinación del transporte en la Comunidad Autónoma Vasca."
+    },
+    {
+      "nombre": "Susana García Chueca",
+      "descripcion": "Consejera de Movilidad Sostenible del Gobierno Vasco, impulsora de la gratuidad del transporte para menores de 12 años."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Tarjeta Barik",
+      "definicion": "Tarjeta de transporte recargable utilizada en Bizkaia para acceder a diversos servicios de transporte público."
+    },
+    {
+      "termino": "Abono multiviaje",
+      "definicion": "Título de transporte que permite realizar múltiples viajes a un precio reducido en comparación con billetes sencillos."
+    },
+    {
+      "termino": "Consorcio de Transportes de Biz ... )",
+      "definicion": "Organismo encargado de la planificación y gestión del transporte público en Bizkaia."
+    },
+    {
+      "termino": "Autoridad del Transporte de Euskadi (ATE)",
+      "definicion": "Entidad que coordina las políticas de transporte en la Comunidad Autónoma Vasca."
+    }
+  ],
+  "impacto_esperado": "La implementación de la gratuidad del transporte ...  Bizkaia aliviará la carga económica de las familias, fomentará el uso del transporte público desde edades tempranas y contribuirá a una movilidad más sostenible en la región.",
+  "comparativas": "En Vitoria-Gasteiz, los menores de 12 años ya disfrutan de transporte público gratuito desde diciembre de 2024, lo que ha incentivado el uso del autobús urbano y reducido el tráfico asociado a desplazamientos escolares.",
+  "opinion_publica": [
+    {
+      "fuente": "Susana García Chueca",
+      "reaccion": "La consejera de Movilidad Sostenible del Gobierno Vasco ha afirmado que la gratuidad para menores de 12 años ...  el transporte público 'viene para quedarse'."
+    },
+    {
+      "fuente": "Raimundo Ruiz de Escudero",
+      "reaccion": "El concejal de Movilidad y Espacio Público de Vitoria-Gasteiz ha declarado que la gratuidad del autobús urbano para los menores de 12 años es una medida que ha venido para quedarse."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que Gipuzkoa implemente medidas similares en las próximas semanas, extendiendo la gratuidad del transporte público a menores de 12 años y coordinando esfuerzos a nivel autonómico para promover una movilidad sostenible.",
+  "datos_relevantes": [
+    {
+      "dato": "Alrededor de 130.400 niños y niñas en Euskadi podrán beneficiarse de la gratuidad del transporte ... : 22.000 en Álava, 65.000 en Bizkaia y  ... .",
+      "fuente": "Eustat"
+    },
+    {
+      "dato": "La última subida de tarifas en Bizkaia se produjo en 2022 ... % entre esa fecha y noviembre de ... .",
+      "fuente": "EITB"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "Bizkaia aplicará en febrero la gratuidad del transporte para menores de 12 años.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "El Consorcio de Transportes ...  ha anunciado que la medida entrará en vigor en la primera semana de febrero de ... ."
+      }
+    },
+    {
+      "afirmacion": "La gratuidad del transporte se ampliará a menores de 14 años en julio.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Las instituciones vizcaínas han señalado que en el segundo semestre la gratuidad se extenderá a ...  13 y 14 años."
+      }
+    }
+  ],
+  "reflexion_breve": "La iniciativa de Bizkaia de ofrecer transporte público gratuito a menores de 12 años no solo representa un alivio económico para las familias, sino que también refuerza el compromiso con la movilidad sostenible. Esta medida fomenta un cambio cultural desde edades tempranas, promoviendo hábitos responsables que impactarán positivamente en el futuro del transporte y el medio ambiente.",
+  "noticias_relacionadas": [
+    {
+      "titular_noticia": "Álava implementa transporte gratuito para menores de 12 años desde enero",
+      "nombre_medio": "El Correo",
+      "url_noticia": "https://www.elcorreo.com/noticias/alava-transporte-gratuito-menores-20250107.html"
+    },
+    {
+      "titular_noticia": "Bizkaia anuncia gratuidad en transporte y subidas de tarifas para 2025",
+      "nombre_medio": "Diario Vasco",
+      "url_noticia": "https://www.diariovasco.com/noticias/bizkaia-gratuidad-transporte-20250107.html"
+    }
+  ],
+  "bsky_msg": "Noticia positiva – Bizkaia implementará en febrero transporte gratuito para menores de 12 años y descuentos adicionales para jóvenes –"
+}
+ 
