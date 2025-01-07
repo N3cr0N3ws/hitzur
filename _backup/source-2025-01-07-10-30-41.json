@@ -2550,59 +2550,5 @@
         "impacto_esperado": "La implementación de la gratuidad del transporte público para menores de 12 años en Bizkaia y Gipuzkoa se espera que fomente el uso del transporte público entre las familias, contribuya a la educación en movilidad sostenible desde una edad temprana y alivie la carga económica en los hogares.",
         "reflexion_breve": "Fomentar el uso del transporte público entre los más jóvenes no solo promueve hábitos de movilidad sostenible, sino que también fortalece el compromiso de la sociedad con un futuro más ecológico y consciente.",
         "bsky_msg": "Beneficio social – Los menores de 12 años viajarán gratis en el transporte público de Bizkaia y Gipuzkoa"
-    },
-    {
-        "titular": "Más frecuencias desde hoy, 7 de enero, en la línea Bilbao-Orduña tras asumir el Gobierno Vasco la competencia",
-        "categoria_emocional": "Mejora significativa",
-        "fecha_publicacion": "7 de enero de 2025",
-        "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9664731/mas-frecuencias-desde-hoy-7-de-enero-en-linea-bilbaoorduna-tras-asumir-gobierno-vasco-competencia/",
-        "url_imagen": "https://media.eitb.eus/multimedia/images/2021/12/03/2861857/20211203192153_estacion-abando-bilbao-ef_foto610x342.jpg",
-        "resumen": "Desde el 7 de enero de 2025, Renfe Cercanías ha incrementado las frecuencias en la línea C3 que conecta Bilbao con Orduña, tras la asunción de competencias por parte del Gobierno Vasco. Los trenes circulan cada 30 minutos entre Orduña y Bilbao, y cada 15 minutos entre Llodio y la capital vizcaína. Además, se han implementado 16 servicios Civis que realizan únicamente ocho paradas, reduciendo así los tiempos de viaje en días laborables.",
-        "contexto": "El 1 de enero de 2025, el Gobierno Vasco asumió la gestión de cinco líneas de Cercanías ferroviarias previamente operadas por Renfe en la Comunidad Autónoma Vasca, con un volumen anual de 22 millones de viajes y 426 circulaciones diarias. Esta transferencia busca mejorar la calidad del servicio y adaptarlo a las necesidades locales, incluyendo la introducción de nuevos servicios en Álava y entre Karrantza y Aranguren.",
-        "linea_tiempo": [
-            {
-                "fecha": "28 de noviembre de 2024",
-                "descripcion": "El Gobierno Vasco anuncia que asumirá la gestión de los servicios de Cercanías operados por Renfe a partir del 1 de enero de 2025."
-            },
-            {
-                "fecha": "1 de enero de 2025",
-                "descripcion": "El Gobierno Vasco asume oficialmente la gestión de las cinco líneas de Cercanías ferroviarias transferidas a la Comunidad Autónoma Vasca."
-            },
-            {
-                "fecha": "7 de enero de 2025",
-                "descripcion": "Se incrementan las frecuencias en la línea C3 Bilbao-Orduña, con trenes cada 30 minutos entre Orduña y Bilbao, y cada 15 minutos entre Llodio y Bilbao."
-            },
-            {
-                "fecha": "Primavera de 2025",
-                "descripcion": "Se prevé la implementación de nuevos servicios de Cercanías en Álava y entre Karrantza y Aranguren."
-            }
-        ],
-        "quien_es_quien": [
-            {
-                "nombre": "Susana García Chueca",
-                "descripcion": "Consejera de Movilidad Sostenible del Gobierno Vasco, responsable de la gestión y mejora de los servicios de transporte público en la región."
-            }
-        ],
-        "glosario_terminos": [
-            {
-                "termino": "Línea C3",
-                "definicion": "Línea de Cercanías que conecta Bilbao con Orduña, pasando por localidades como Llodio."
-            },
-            {
-                "termino": "Servicios Civis",
-                "definicion": "Trenes que realizan un número reducido de paradas para ofrecer tiempos de viaje más rápidos entre destinos principales."
-            },
-            {
-                "termino": "Cercanías",
-                "definicion": "Servicios ferroviarios que conectan áreas metropolitanas con sus alrededores, facilitando el transporte de corta distancia."
-            },
-            {
-                "termino": "Transferencia de competencias",
-                "definicion": "Proceso mediante el cual una administración transfiere la gestión de ciertos servicios o funciones a otra administración."
-            }
-        ],
-        "impacto_esperado": "Se anticipa una mejora en la movilidad de los usuarios de la línea C3, con tiempos de viaje reducidos y mayor frecuencia de trenes, lo que podría incrementar el uso del transporte público y disminuir la congestión vehicular en la región.",
-        "reflexion_breve": "La asunción de competencias ferroviarias por parte del Gobierno Vasco y la mejora en las frecuencias de la línea C3 representan un avance hacia un transporte público más eficiente y adaptado a las necesidades de la ciudadanía, fomentando una movilidad más sostenible en la región.",
-        "bsky_msg": "Mejora significativa – Renfe amplía frecuencias desde hoy en la línea C3 Bilbao-Orduña tras asumir el Gobierno Vasco la competencia"
     }
 ]
